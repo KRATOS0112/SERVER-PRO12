@@ -1303,8 +1303,11 @@
       "cooked_beef": "2025-07-26 17:51:25 +0000",
       "porkchop": "2025-07-26 16:29:16 +0000",
       "mutton": "2025-07-26 17:06:10 +0000",
+      "apple": "2025-07-26 18:04:28 +0000",
+      "cooked_cod": "2025-07-26 18:06:22 +0000",
       "bread": "2025-07-26 01:35:55 +0000",
-      "golden_apple": "2025-07-26 16:35:01 +0000"
+      "golden_apple": "2025-07-26 16:35:01 +0000",
+      "cooked_salmon": "2025-07-26 18:05:59 +0000"
     },
     "done": false
   },
@@ -1683,6 +1686,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-26 02:20:27 +0000",
+      "minecraft:magma_cube": "2025-07-26 18:08:17 +0000",
       "minecraft:zombie": "2025-07-26 02:17:45 +0000"
     },
     "done": false
@@ -3751,6 +3755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-26 18:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-26 17:22:57 +0000"
@@ -3817,6 +3827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-26 18:05:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-07-26 17:33:59 +0000"
@@ -3865,6 +3881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-26 18:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
@@ -3886,6 +3908,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-07-26 18:07:51 +0000"
     },
     "done": true
   },
@@ -3913,6 +3941,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-26 18:07:39 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_boomerang": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -3925,6 +3959,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-26 18:07:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-07-26 17:22:48 +0000"
@@ -3934,6 +3974,12 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-07-26 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-26 18:05:34 +0000"
     },
     "done": true
   },
@@ -4096,6 +4142,12 @@
   "spartanfire:recipes/dragon_bone_rapier": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-07-26 18:07:39 +0000"
     },
     "done": true
   },
@@ -4285,6 +4337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-26 18:05:34 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_lance": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -4390,6 +4448,12 @@
   "eidolon:recipes/building_blocks/bone_pile_stonecutter_0": {
     "criteria": {
       "has_journal": "2025-07-26 17:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-26 18:07:39 +0000"
     },
     "done": true
   },

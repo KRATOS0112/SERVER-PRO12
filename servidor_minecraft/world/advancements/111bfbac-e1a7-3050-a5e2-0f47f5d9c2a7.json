@@ -765,6 +765,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-26 01:39:15 +0000",
+      "minecraft:skeleton": "2025-07-26 18:06:05 +0000",
+      "minecraft:magma_cube": "2025-07-26 18:08:30 +0000",
       "minecraft:spider": "2025-07-26 02:40:17 +0000",
       "minecraft:creeper": "2025-07-26 02:53:07 +0000",
       "minecraft:witch": "2025-07-26 01:53:18 +0000"
@@ -1073,8 +1075,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-26 18:02:43 +0000",
+      "cooked_beef": "2025-07-26 18:05:25 +0000",
       "cooked_mutton": "2025-07-26 17:36:09 +0000",
       "apple": "2025-07-26 01:40:24 +0000",
+      "cooked_cod": "2025-07-26 18:06:30 +0000",
       "bread": "2025-07-26 01:40:34 +0000",
       "rotten_flesh": "2025-07-26 01:56:57 +0000"
     },
@@ -3150,6 +3155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3183,6 +3194,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-26 17:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
     },
     "done": true
   },
@@ -3285,6 +3302,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-26 17:18:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-07-26 18:11:33 +0000"
     },
     "done": true
   },
@@ -3444,6 +3467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
     "criteria": {
       "has_pickerelweed": "2025-07-26 17:30:30 +0000"
@@ -3582,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-07-26 17:34:00 +0000"
@@ -3597,6 +3632,18 @@
   "spartanweaponry:recipes/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-07-26 17:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
     },
     "done": true
   },
@@ -3630,6 +3677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3639,6 +3692,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
     },
     "done": true
   },
@@ -3681,6 +3740,18 @@
   "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2025-07-26 17:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-26 18:08:52 +0000"
     },
     "done": true
   },
@@ -3786,6 +3857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3813,6 +3890,18 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-07-26 16:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
     },
     "done": true
   },
@@ -3858,6 +3947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-07-26 16:27:25 +0000"
@@ -3867,6 +3962,12 @@
   "spartanweaponry:recipes/iron_parrying_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
     },
     "done": true
   },
@@ -4026,6 +4127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-26 17:47:39 +0000"
@@ -4047,6 +4154,12 @@
   "spartanweaponry:recipes/silver_parrying_dagger": {
     "criteria": {
       "has_silver_ingot": "2025-07-26 17:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:11:46 +0000"
     },
     "done": true
   },
@@ -4170,6 +4283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-26 16:19:14 +0000"
@@ -4242,6 +4361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-26 18:09:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2025-07-26 17:34:00 +0000"
@@ -4257,6 +4382,12 @@
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-26 18:09:05 +0000"
     },
     "done": true
   },

@@ -1369,3 +1369,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 17:52:32.038] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [26Jul2025 17:57:33.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
 [26Jul2025 17:57:51.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[26Jul2025 18:05:14.208] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 18:05:14.211] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 18:06:54.754] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 18:06:54.758] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 18:07:51.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Suit Up]
+[26Jul2025 18:08:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has reached the goal [Bone Crusher]
+[26Jul2025 18:11:26.594] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.594] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.597] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.598] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.601] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.601] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:29.102] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.219] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.241] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.277] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.290] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.308] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.332] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:30.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5681ms or 113 ticks behind

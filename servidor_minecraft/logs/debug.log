@@ -14632,3 +14632,605 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 18:01:54.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [26Jul2025 18:02:21.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jul2025 18:02:21.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 18:04:09.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:04:14.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:04:15.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:04:16.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:04:17.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:04:17.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:09.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:10.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:11.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:11.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:12.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:12.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:13.406] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:05:14.208] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 18:05:14.211] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 18:06:01.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:01.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:02.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:02.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:02.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:02.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:03.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:05.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:10.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:10.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:18.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:18.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:22.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:22.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:23.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:23.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:24.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:24.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:25.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:25.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:25.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:44.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:45.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:45.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:45.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:45.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:45.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:45.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:46.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:46.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:46.513] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:46.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:47.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:50.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:51.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:52.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:53.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:53.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:06:54.754] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 18:06:54.758] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 18:07:21.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 18:07:21.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 18:07:51.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Suit Up]
+[26Jul2025 18:08:04.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:04.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:04.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:04.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:08.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:08.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:12.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:13.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:14.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:15.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:16.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:17.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:18.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:19.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:20.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:20.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:20.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:20.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:20.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:20.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:21.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:21.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:21.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:21.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:21.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:22.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:23.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:23.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:26.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:26.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:27.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:27.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:30.204] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:40.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:40.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:41.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:41.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:42.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:43.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:44.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:44.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:44.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:44.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:44.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:46.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:47.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:47.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:47.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:47.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:47.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:47.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:48.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:48.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:49.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:50.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:50.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:50.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:50.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:50.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:50.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:51.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:52.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:52.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:52.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:52.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has reached the goal [Bone Crusher]
+[26Jul2025 18:08:53.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:53.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:53.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:53.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:53.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:54.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:54.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:55.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:55.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:56.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:59.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:08:59.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 18:11:24.979] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_3 is being run through DFU (hash 3fe650034339e7f0ca054ff6db4df41a21cbd3b06735b87ec8d667c133a1c188), this will cause launch time delays
+[26Jul2025 18:11:25.078] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[26Jul2025 18:11:25.096] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_3 is being run through DFU (hash 3225787c560299130e36fd56fc487917bd0de74f2a263db6663e4b8d171f232f), this will cause launch time delays
+[26Jul2025 18:11:25.181] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_3 is being run through DFU (hash c76dceff34aaab0a83862f3eabac184fb19827542ff2f267010aa8ef31a1bba2), this will cause launch time delays
+[26Jul2025 18:11:25.195] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[26Jul2025 18:11:25.219] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 325a5da046a550524137fdf7cebbc04fbeb42dc8d25dda67bc942152fd20b6d1), this will cause launch time delays
+[26Jul2025 18:11:25.241] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_2 is being run through DFU (hash 42e55a1bdf37ca93966fc3333646403561a978952366bece40fb23635ecf8167), this will cause launch time delays
+[26Jul2025 18:11:25.248] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_5 is being run through DFU (hash af9c19032e47a68ff8a293612456dd3f968375a67be0abd7c8d909ef8747d9fe), this will cause launch time delays
+[26Jul2025 18:11:25.260] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_7 is being run through DFU (hash ea1a84e8397cb5a6dfac88232f928f0360797410f81b961328707ef2d01126f6), this will cause launch time delays
+[26Jul2025 18:11:25.346] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_0 is being run through DFU (hash 7b3068cd39c82e1fce787e40ceeae37232a163be5ecbf7f03bf4231c097a030a), this will cause launch time delays
+[26Jul2025 18:11:25.356] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_1 is being run through DFU (hash c38899ef6bf56e749fb933710eaca016c99a762549f9d4529d32842bcb01b833), this will cause launch time delays
+[26Jul2025 18:11:25.364] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_6 is being run through DFU (hash db0036046dcbfdb2add9578cbd208e4e9cf6e9ed4f934d03eeda260588a811a2), this will cause launch time delays
+[26Jul2025 18:11:25.372] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_3 is being run through DFU (hash f011acc3853c6e3101d3c6c0c279faa1e5879f49c80aa22b64404e1fe98da263), this will cause launch time delays
+[26Jul2025 18:11:25.381] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_4 is being run through DFU (hash 6eca3bb9f7f46964786785eb87884fe9ad9e7911d774794d5752f4cd8857a522), this will cause launch time delays
+[26Jul2025 18:11:25.421] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_0 is being run through DFU (hash 1b9608a269e0597ece68a3da040ccc8c77a2d63afe5919be33f7505621192eae), this will cause launch time delays
+[26Jul2025 18:11:25.492] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_5_straight_debris is being run through DFU (hash a0847b1f1370fd5c08e6e00d71c1e7956cd637809b51b917a3998ec6198d7b9e), this will cause launch time delays
+[26Jul2025 18:11:25.502] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_6_stairway is being run through DFU (hash a49f6e61f6dd92103b09bc346ee0a8bf487c21645dafdd728a58e8d80de1571e), this will cause launch time delays
+[26Jul2025 18:11:25.523] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_3_passages is being run through DFU (hash 7eec1f76f668bf85644117b01b43e3b59a7af1e49a81ab1720f86773b6aca25d), this will cause launch time delays
+[26Jul2025 18:11:25.597] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_1_quad is being run through DFU (hash 21b20aaddb581af5a19431ec0cd44142c80413d2a5fe4ee358118eb08235ce9f), this will cause launch time delays
+[26Jul2025 18:11:25.605] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_2_straight is being run through DFU (hash 6481fc35bd26a0b9f79d54f88cef4d657d498c4eaf5a06a75bbc1df693bfe220), this will cause launch time delays
+[26Jul2025 18:11:25.612] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_0_stairway is being run through DFU (hash d672477895dee978ca353e69fb5453040363ad8ff3c42c0bd847e0eb5c589565), this will cause launch time delays
+[26Jul2025 18:11:25.619] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_0_stairway_exterior is being run through DFU (hash 778e27b7783d7fc58574e97ff5f9432fa536cdacde0da675f289fc986751e702), this will cause launch time delays
+[26Jul2025 18:11:25.624] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_blaze_0 is being run through DFU (hash 1ba31f5a4e51a2f91b6caa94dbbc4b796429a1c53743a6d597a67d31e8c8a8d5), this will cause launch time delays
+[26Jul2025 18:11:25.663] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_0 is being run through DFU (hash 83ee20901a26442597d9bdc507fa6a79f40227a8b70a3a957f9c662c95dfa047), this will cause launch time delays
+[26Jul2025 18:11:25.723] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_3 is being run through DFU (hash 8450729254bb89e9a57e2263f784fafec6ff34cf75f54542a89d6c290a18cd03), this will cause launch time delays
+[26Jul2025 18:11:25.735] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_3_exterior_spawner is being run through DFU (hash 31eec8279b23d1aa345765a447524a33d73b28a92726798298d3d421872bae23), this will cause launch time delays
+[26Jul2025 18:11:25.741] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_2_straight_exterior is being run through DFU (hash 52d3c42b610f67075394d72e51d2566abea6f8279507e519da9bb721e94cfd1c), this will cause launch time delays
+[26Jul2025 18:11:25.747] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_1 is being run through DFU (hash d280bb9a3763d5c85fdb6ae58556481e7b9c415a25a5748df6418dbec1ac2b45), this will cause launch time delays
+[26Jul2025 18:11:25.749] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_3 is being run through DFU (hash fb0b5e27fc1e67d1d421138c3c56d8be40a8b9e1f00a86d85d460e81be6a8579), this will cause launch time delays
+[26Jul2025 18:11:25.750] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_gear_1 is being run through DFU (hash b0ff981976c98a6e3a31a6c1cfb483655dad9dc21ad3e90f0f32db09fab863e9), this will cause launch time delays
+[26Jul2025 18:11:25.751] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_0 is being run through DFU (hash 8d34e085463fe533eff57c6a9300f248d374f0014e8192cbd320721a55124dab), this will cause launch time delays
+[26Jul2025 18:11:25.752] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_gear_0 is being run through DFU (hash b370800ea593e4271a352a4531590ebbe44a55104a23e0a8d417193c8f5a7edd), this will cause launch time delays
+[26Jul2025 18:11:25.754] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_0 is being run through DFU (hash f76831d0292d71e38812223cb82bb314c452e3af082f1d3fa5a04ae517d61f02), this will cause launch time delays
+[26Jul2025 18:11:25.775] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_3 is being run through DFU (hash 853c95c6653ee03908877bff3b8a9b7fe827bce26640903b344bbb44631596ab), this will cause launch time delays
+[26Jul2025 18:11:25.920] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_2 is being run through DFU (hash f006833dbbf72a17ae8177f562d8892fc2d917af005b0132e6fc4bd1ec414ac0), this will cause launch time delays
+[26Jul2025 18:11:25.923] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_1 is being run through DFU (hash c4208ab04058bdecc99ad0ad2ce38cf9fcf6dc55683c8fe6dcc9206d7b9ee7f5), this will cause launch time delays
+[26Jul2025 18:11:25.924] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_3 is being run through DFU (hash bbaa4557e4b7aea5d4a8c569c8fa3587dcd4850afdb5941e68dc02c28a10209f), this will cause launch time delays
+[26Jul2025 18:11:25.925] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_2 is being run through DFU (hash c3a1372b216a0047d0e2dc4dfa8f343d49467dfc56576989496eaef6be71a29b), this will cause launch time delays
+[26Jul2025 18:11:25.941] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_4 is being run through DFU (hash 8fa255b100193a6fde4a1c202232f2c66d4c005c3438006352f5fd4cad8cbdf3), this will cause launch time delays
+[26Jul2025 18:11:26.049] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_1 is being run through DFU (hash b4ccfabd4598bd6e59d07885209d0f0764f6e5a8f7639f43d6224defeff50512), this will cause launch time delays
+[26Jul2025 18:11:26.151] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_2_stairway is being run through DFU (hash a216b3eebc0a9eda5ebdda1c00fefd4d6cb6da1bd2670b0ff71f78cb84841988), this will cause launch time delays
+[26Jul2025 18:11:26.247] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_2 is being run through DFU (hash 0b6c292b3811b5f6394b354acbeae475514d8c238a59e07ac52b87b74d927c51), this will cause launch time delays
+[26Jul2025 18:11:26.336] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_4_door is being run through DFU (hash 5a929649db0e149b5269f22333a14bba0d776d15ecbbc94c1df4800805d7e18d), this will cause launch time delays
+[26Jul2025 18:11:26.409] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_lava_pit_0 is being run through DFU (hash 31f259228a16750a2182d056eda8778c55febee4fc7666958ea13a92b07bab68), this will cause launch time delays
+[26Jul2025 18:11:26.478] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_1 is being run through DFU (hash 56a3825a2c1119b4d97fc40d67164fbee4a7c4dbbbd84bb551443b5dd6f6b392), this will cause launch time delays
+[26Jul2025 18:11:26.539] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_terminator_1 is being run through DFU (hash 5cdde8e95ca99a3bc3d8a88271af2cad74558aa0ac5f8d66e96cc755ed8bd477), this will cause launch time delays
+[26Jul2025 18:11:26.544] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_4 is being run through DFU (hash 2b9d193172a76fe14e1b6b404d537a49d6ae3fbdccf69bede87d6899726eb8bc), this will cause launch time delays
+[26Jul2025 18:11:26.545] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_5_blaze is being run through DFU (hash db5edf44ced8cc634c6796f43bc34d5d9f9dd25419424fb738ab3103b215c044), this will cause launch time delays
+[26Jul2025 18:11:26.546] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_magma_0 is being run through DFU (hash 23143d1393ba1cca856a570f7666aa0ee26333178e806500a509a8f0dd93cf7a), this will cause launch time delays
+[26Jul2025 18:11:26.551] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_piglin_0 is being run through DFU (hash 8c6f1377198ba32f062e0d8eeae1640076c4847c48c760c3efbf6d611ec06caf), this will cause launch time delays
+[26Jul2025 18:11:26.558] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_1_quad_exterior is being run through DFU (hash 2dacd2dbd1b9f875847a3c7f653c1663c9f7a9408288bc01b3cc3f0fcef23981), this will cause launch time delays
+[26Jul2025 18:11:26.564] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_3_terminator is being run through DFU (hash a5b50e60b2afda5ec8e89e4c4bbdd0ae964ce8fcaec2542d5421bcbd780176bc), this will cause launch time delays
+[26Jul2025 18:11:26.570] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_4_terminator is being run through DFU (hash c130c1ff9aebde3965e7629cccfb2f7ba965b4b0b5e5583a9e36dc06c2cc9c3c), this will cause launch time delays
+[26Jul2025 18:11:26.573] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_1 is being run through DFU (hash b2fef86ad573126b5145b65aef198e527a963159ec046ad1dc8be9be8372fbde), this will cause launch time delays
+[26Jul2025 18:11:26.580] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_2 is being run through DFU (hash d44544137c19fec3a1245d029a4190d4eb6debbfe046e664ef88ebea77269b6c), this will cause launch time delays
+[26Jul2025 18:11:26.586] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_magma_1 is being run through DFU (hash 5f637fb428f886dbd85a5517099172bbcdd71563e3cb7040739507712e926059), this will cause launch time delays
+[26Jul2025 18:11:26.589] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_0 is being run through DFU (hash 2c8de349338c9d8a342deabedcf5e7aae0039e1180b802927c8cb2ce2721bfec), this will cause launch time delays
+[26Jul2025 18:11:26.590] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_6_chest is being run through DFU (hash 9f64249d576a512993cb6b67a01c0db6394b4f794a29363a09a5e903fb67db8c), this will cause launch time delays
+[26Jul2025 18:11:26.594] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.594] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.597] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.598] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.601] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.601] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[26Jul2025 18:11:26.656] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_4 is being run through DFU (hash 5b88508f035a2a021b620463f9bc58546e95f50471753329928c1513c0189bf3), this will cause launch time delays
+[26Jul2025 18:11:26.665] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[26Jul2025 18:11:26.671] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_0 is being run through DFU (hash e8b079de93e43a9fffc70c7061ec60a545625d1d837c700e9d23afe0b04f9d93), this will cause launch time delays
+[26Jul2025 18:11:26.688] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[26Jul2025 18:11:26.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[26Jul2025 18:11:26.700] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_3 is being run through DFU (hash dc7ad5f772feeefdec83c877a8e9805d0ff6ad7ae6b852e7fdca4e06051538ab), this will cause launch time delays
+[26Jul2025 18:11:26.710] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_1 is being run through DFU (hash 7b21fdffa7a9a5e0e199ee3fec061057c30bcb8da0c3e7736def8138a8cfea17), this will cause launch time delays
+[26Jul2025 18:11:26.721] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[26Jul2025 18:11:26.726] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[26Jul2025 18:11:26.732] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_2 is being run through DFU (hash 0b6bd83133060f95020b74da9d341154182afccc938e0168c6d6d1536023c600), this will cause launch time delays
+[26Jul2025 18:11:26.741] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_1 is being run through DFU (hash 4b0d122034d49d15b17168a012434b4f0184fe803ad83ad9822a65ee2b333ced), this will cause launch time delays
+[26Jul2025 18:11:26.771] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_2 is being run through DFU (hash 7591243f15878ba055b9aaaddbaf2db31b09e0cbe57d2506d8bfbdaf9d2e9253), this will cause launch time delays
+[26Jul2025 18:11:26.784] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_0 is being run through DFU (hash 4a213e4c41bb4215060487ab2e2a91fa14e23292b782f3dfa0f2ae47b06db518), this will cause launch time delays
+[26Jul2025 18:11:26.785] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_17 is being run through DFU (hash 5cc8d79612fb87ee253b6446a055f95ef273582846969490033ec961e454ae36), this will cause launch time delays
+[26Jul2025 18:11:26.786] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_5 is being run through DFU (hash ceb126469d074bbc11bc1d0f5089656c663fbd36bccce10b5545f9b83440c87d), this will cause launch time delays
+[26Jul2025 18:11:26.788] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_15 is being run through DFU (hash b1f752a8808f104d3927116e3c240df7a004d6bb368c42339ce119af7229e7be), this will cause launch time delays
+[26Jul2025 18:11:26.790] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_0 is being run through DFU (hash a507bbc9cdd996779da1bbf7f5a2fae28cb8de01b0828b096310995bf42b6f46), this will cause launch time delays
+[26Jul2025 18:11:26.796] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_4 is being run through DFU (hash 4a3462cc199e7ee6f9e46e9a5820a55a6632bf4069393c2f270d4c710d77b56a), this will cause launch time delays
+[26Jul2025 18:11:26.800] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_0 is being run through DFU (hash 21d73ab966a24b1220e22250d20b3987ca27192727a9f5c2001b1f458a53337f), this will cause launch time delays
+[26Jul2025 18:11:26.804] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_3 is being run through DFU (hash 4a44fca0fdc52a18cc7c00aa8fb990c29f4ab5adaecb62165af188a5c9cd7118), this will cause launch time delays
+[26Jul2025 18:11:26.819] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_0 is being run through DFU (hash 6aecc171c6929a39bce4c75ed36717f58933bb024f157672bb60d9506b2d23a5), this will cause launch time delays
+[26Jul2025 18:11:26.824] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_7 is being run through DFU (hash 8f4912ed9140638ec98668e82f630991021b62796cf571b7067262b909eddf63), this will cause launch time delays
+[26Jul2025 18:11:26.827] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_3 is being run through DFU (hash fe5c6e9663030b4016e6c6206052de4be9ca84aa13c3f040819a69544ee9b57b), this will cause launch time delays
+[26Jul2025 18:11:26.828] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_6 is being run through DFU (hash ec8f10d2dd8dc12b080a6401e1517453f3e9840d14051091c9db180632a69ce5), this will cause launch time delays
+[26Jul2025 18:11:26.829] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_13 is being run through DFU (hash b8d0f0918979d80f6b90ac6bb07d0b4bde968ac87dbcabff3badb2ef36ca375f), this will cause launch time delays
+[26Jul2025 18:11:26.829] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_10 is being run through DFU (hash 66b860e9d65a728ec77001669103b8a19b1eb73dd310eb7b1c1f46ec79412d28), this will cause launch time delays
+[26Jul2025 18:11:26.831] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_2 is being run through DFU (hash 8dbe0413d814a4d247fd15af92565d45853024ca2d41717bc692fd4f08c59055), this will cause launch time delays
+[26Jul2025 18:11:26.832] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_12 is being run through DFU (hash 716f5e58e6bd639ee848aa154abbc3f0876c62e8bcd76afd78584e64c3b1b058), this will cause launch time delays
+[26Jul2025 18:11:26.833] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_8 is being run through DFU (hash 9636bf03ae732a21e46bd4a89d4b95d99d10dc64bf986dcf3ffa8f1f166677e0), this will cause launch time delays
+[26Jul2025 18:11:26.835] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_16 is being run through DFU (hash 051c697fdcb6d9ba60b59c805b446f52844feb03e1935e4b82d3f7899cdde82d), this will cause launch time delays
+[26Jul2025 18:11:26.835] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_11 is being run through DFU (hash 80176ec32753a450cd929c8c05d3437141c92c91f03ccef82a444d9cf2c9fef1), this will cause launch time delays
+[26Jul2025 18:11:26.837] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_14 is being run through DFU (hash ec9ed2ac371b6d15dc0c74fa68347c1e15ab795d36624f7edff9fb360e2eb372), this will cause launch time delays
+[26Jul2025 18:11:26.838] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_9 is being run through DFU (hash 16d1ede724733ae81a07ac76b871c1ee2d319377628a30324e62b978fd58d614), this will cause launch time delays
+[26Jul2025 18:11:26.840] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_4 is being run through DFU (hash ce3c2f5d34fcd2842dbf37368cd28fc0a503239c115ac017fa6745d58ec3cebf), this will cause launch time delays
+[26Jul2025 18:11:26.841] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_3 is being run through DFU (hash 77ce20e83bc59cba13b4034c57957121c9da3d23fd133389460b25340ed78b62), this will cause launch time delays
+[26Jul2025 18:11:26.845] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_1 is being run through DFU (hash 81cbda83562e6a93ce47df5661a374c4329e2b54eb2e732e5b2b031224650ea6), this will cause launch time delays
+[26Jul2025 18:11:26.849] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_6 is being run through DFU (hash aa04001176bee4c15902dd75eb682bdf15c6ad4fe677f933941eb4245727fe01), this will cause launch time delays
+[26Jul2025 18:11:26.852] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_5 is being run through DFU (hash 00beef40df7e2c447816dd5e92d14073d158f36b9948385538c85d16ebeadd10), this will cause launch time delays
+[26Jul2025 18:11:26.855] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_4 is being run through DFU (hash 5b19ff671c5d4d84e795097519c1ee8e9b4f1d38c000bb7d15f5f12f3d95f958), this will cause launch time delays
+[26Jul2025 18:11:26.860] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_2 is being run through DFU (hash 0e773702dfd7903966a6c66c9be4c26bf3f12da690406ecd26dedf9f9978c252), this will cause launch time delays
+[26Jul2025 18:11:26.869] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_1 is being run through DFU (hash d5414a501181e1e71a8e360bb449e36a1eaf1ba8b9f4fad85b5c3eddd2edf3ee), this will cause launch time delays
+[26Jul2025 18:11:26.872] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_2 is being run through DFU (hash 5ccfcf76488c9da318da5a390390e6cfb02568f9ee5b8900242bb30570eb0c27), this will cause launch time delays
+[26Jul2025 18:11:26.875] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_terminator_0 is being run through DFU (hash 92756234c71261ffa822988e7a28bd73bd58b367b99be0e6bfb0fbca9c19bd9f), this will cause launch time delays
+[26Jul2025 18:11:26.876] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_1 is being run through DFU (hash 6faba2551547219adf4cbc800ade68cddb6a5a5305ce3e02796f1b8b699ce2cd), this will cause launch time delays
+[26Jul2025 18:11:26.885] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_0 is being run through DFU (hash 57e4f869833b448d7d7dfab16d398138486920e00b9bf055732aeb9759a3b342), this will cause launch time delays
+[26Jul2025 18:11:26.950] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_5 is being run through DFU (hash 0e89ce83be28c41d0cc213ecba89e4f862bf04e1989d313ac7fa8608d5869b49), this will cause launch time delays
+[26Jul2025 18:11:26.970] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_2 is being run through DFU (hash 64918d3a3855f9228ee8df4c4c2de592b12b1885ca6a36311137c755d5c1c32d), this will cause launch time delays
+[26Jul2025 18:11:26.980] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0 is being run through DFU (hash 1848f6d5564e8d41459412ce7cf232fe312e9ac07af6d6e083a757288ad052db), this will cause launch time delays
+[26Jul2025 18:11:26.983] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_3 is being run through DFU (hash ab6fc40b243eb515488dc19a0972bfb0b378aef672b562ac4ef27b8009b3da33), this will cause launch time delays
+[26Jul2025 18:11:26.993] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5 is being run through DFU (hash 9dfeba3de7184e638b011c2586754f186d1e8ae5716c97f253b375592199ddae), this will cause launch time delays
+[26Jul2025 18:11:26.997] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13 is being run through DFU (hash feb653035bf745031cae977c98722ce0cd5272f9e725651fb33e2f7eedc76cdc), this will cause launch time delays
+[26Jul2025 18:11:26.998] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8 is being run through DFU (hash 85d5988cc28bbb715f7279eb81c2f2d07797c712dd6abe67379c88e79f3716d1), this will cause launch time delays
+[26Jul2025 18:11:27.000] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_6 is being run through DFU (hash 41359caad98a809d853587e5b25074ed1665c2d6649768895dac9571facd87b8), this will cause launch time delays
+[26Jul2025 18:11:27.004] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13 is being run through DFU (hash 48413540dc56bd5c9ad8975c8cd999748c520b5ac7c7675503a75c76f8285ff1), this will cause launch time delays
+[26Jul2025 18:11:27.006] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_9 is being run through DFU (hash b167304170c9ae4940c32bb130ade48b78f806ea907480715c9dea9a460e2d73), this will cause launch time delays
+[26Jul2025 18:11:27.011] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0 is being run through DFU (hash b45243c925196d4fb9c6baf2fd63c2a82b974ecdb128c646d4ed93ac71881769), this will cause launch time delays
+[26Jul2025 18:11:27.013] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4 is being run through DFU (hash 6a0c7e99321657c697995abf0e2c1615d3daeeb396c452cca220a20194eb7939), this will cause launch time delays
+[26Jul2025 18:11:27.015] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0 is being run through DFU (hash c2e0db02e2f2de2b795c27aa5f05a42994f4fc1bae651d73871139833ea8f249), this will cause launch time delays
+[26Jul2025 18:11:27.017] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18 is being run through DFU (hash 19c8e31a2f67bbad0a46fec6e195c0c4b1c298c181700d0ba525c957b72d891e), this will cause launch time delays
+[26Jul2025 18:11:27.018] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6 is being run through DFU (hash 1e23bcc6626b5c66463546295720403ea4cef16c302ae6ea93a3b21a565eaefd), this will cause launch time delays
+[26Jul2025 18:11:27.021] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18 is being run through DFU (hash 510ba21689359e94242178d988068df8eb4f1205d025eb0e8674132bc28689ad), this will cause launch time delays
+[26Jul2025 18:11:27.022] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15 is being run through DFU (hash 897538a20a813346b57d872691ad2d3632dc39e6aff12fec240e491ffd010616), this will cause launch time delays
+[26Jul2025 18:11:27.024] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_13 is being run through DFU (hash 37aabb96560802dd707364a9ea73a65489de2fb3ce4791b2858ef31e9b9eddb9), this will cause launch time delays
+[26Jul2025 18:11:27.026] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14 is being run through DFU (hash 60701a7a568cbbd4dc5384370dd25936f35c9ea14e91c291adfd31d152a14ba3), this will cause launch time delays
+[26Jul2025 18:11:27.026] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9 is being run through DFU (hash 67cc6994858fc6e34a2c3c9df418311418755eeeb9708e5fa239163d12d5f3a1), this will cause launch time delays
+[26Jul2025 18:11:27.029] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7 is being run through DFU (hash 1bf9ede58c537a8bba521c87d4a5259ce3036b2cc166f92c42d0c3683e2d6a27), this will cause launch time delays
+[26Jul2025 18:11:27.030] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18 is being run through DFU (hash 78180d409abd4dd5750445f9594a288a8174872ad38acaa2b27723f91c27b5e8), this will cause launch time delays
+[26Jul2025 18:11:27.031] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9 is being run through DFU (hash d0960b24838cbab2520113b182221f19dff083118a4679f01a2d21bbdcd6d904), this will cause launch time delays
+[26Jul2025 18:11:27.032] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_7 is being run through DFU (hash e85594a092da18f7ddd3c7391c3ec342112c4f41678bb0b4c31ed7fc408d3dfe), this will cause launch time delays
+[26Jul2025 18:11:27.034] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12 is being run through DFU (hash 1d2bb61567146f009f7e5b3179898f82aa480cd7419ea21ac9bea854dd2bd879), this will cause launch time delays
+[26Jul2025 18:11:27.035] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1 is being run through DFU (hash f526b63878e2dec302301c644cd34454176d2d8a39ebb1127e71638bf4a0fb80), this will cause launch time delays
+[26Jul2025 18:11:27.039] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20 is being run through DFU (hash 378170e3ecd0544d075ddb360e9a39088eb2bd5ae4f6dda5398150c005ec6818), this will cause launch time delays
+[26Jul2025 18:11:27.040] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_21 is being run through DFU (hash ba3cab6e6b0dcfc5aa81a708d175e8d2a6ed8a1774f10f787c4597e3eac9f0eb), this will cause launch time delays
+[26Jul2025 18:11:27.043] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3 is being run through DFU (hash 39ee9d176c7ef1f8012a9e37905b040bdee04c7298994ac8b65a183bce19725d), this will cause launch time delays
+[26Jul2025 18:11:27.044] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6 is being run through DFU (hash 9de889f1a6da17ffca46adf9e21b50fcdc150b8dec20c6967d2962c587c0d3ad), this will cause launch time delays
+[26Jul2025 18:11:27.045] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_10 is being run through DFU (hash 3cdf7e817f0805f7471da3ea5830778a47a0057c6df4644a3b4ff84c5dbc2a2d), this will cause launch time delays
+[26Jul2025 18:11:27.051] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6 is being run through DFU (hash fd20ef4e4d073ba113a5c6479f51e1774a6f91835d0c5d5d672c380febe8dc82), this will cause launch time delays
+[26Jul2025 18:11:27.053] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1 is being run through DFU (hash 8c91a51ee1e0335a2014f6eba9ed0ff67edc46f7ed799202b29dabc67448b442), this will cause launch time delays
+[26Jul2025 18:11:27.057] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_8 is being run through DFU (hash 27e3e6f9bd6e862735c533f71838b3dde8aa7140a1cf199e4933aa3e26b0c6ce), this will cause launch time delays
+[26Jul2025 18:11:27.061] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12 is being run through DFU (hash 083fbf8a75540061583dcf04c54f0478b6bedb235b4bef26bf63c04f7440f306), this will cause launch time delays
+[26Jul2025 18:11:27.064] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7 is being run through DFU (hash ec0a667258fd1f4511acac113f0f1dd427b638d57c18b50ac913b056c747235e), this will cause launch time delays
+[26Jul2025 18:11:27.066] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9 is being run through DFU (hash aa9de4b3a3891adc1fffb1177a73316c5a78e2b1b51036eec4b759166eab786e), this will cause launch time delays
+[26Jul2025 18:11:27.068] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2 is being run through DFU (hash cc9e98ff10464448835daa28423744e6edc09fcb825ba8a4b363b50444e20039), this will cause launch time delays
+[26Jul2025 18:11:27.070] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_5 is being run through DFU (hash dfc4c2defbdf3fd63b3573dbdcefd8dd9491e8dbe4202222b1d588e7c3588f80), this will cause launch time delays
+[26Jul2025 18:11:27.072] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21 is being run through DFU (hash 3fcf2ceaac9db4691dd68b2efa1e7608077b12483fa82722bfba76e4d35cbfb1), this will cause launch time delays
+[26Jul2025 18:11:27.077] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_19 is being run through DFU (hash 4860abbc8209ab67ed419dcea5f85b93d44b80e16346c741b606cfcce32d7d59), this will cause launch time delays
+[26Jul2025 18:11:27.081] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10 is being run through DFU (hash 332976678b5a17a87e6c415bc188de1405946768b54de173240abf4bcabe3c6a), this will cause launch time delays
+[26Jul2025 18:11:27.082] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_4 is being run through DFU (hash cf73cd76e3c2c71e8bb5f96e637beeedaf85cd66fb47e4339b5d8355f2d9ea5e), this will cause launch time delays
+[26Jul2025 18:11:27.088] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_14 is being run through DFU (hash 6bc7f1b8a6695c5748b386036a5b2a5380a728f7c4b7c25aa487a71a22e0b38f), this will cause launch time delays
+[26Jul2025 18:11:27.091] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0 is being run through DFU (hash e0d10aa3a3cc19af7ec07ba4f9c4902802742bea5014ff8977a73b2f99f22094), this will cause launch time delays
+[26Jul2025 18:11:27.093] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_20 is being run through DFU (hash 773fb98e5b3bca15701d07aaa0e6f94f4ba35102e02c7683040127ab8ad12990), this will cause launch time delays
+[26Jul2025 18:11:27.095] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_11 is being run through DFU (hash 0ce16f7b7948d1981446b77cf1032341bc7ee9ae5c7a3ac0999a1d68db3b3c43), this will cause launch time delays
+[26Jul2025 18:11:27.099] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_1 is being run through DFU (hash 3ec50232f43c91c26e968705de8f1075dcdcff68893bc8b7ff8e635193af1a26), this will cause launch time delays
+[26Jul2025 18:11:27.100] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11 is being run through DFU (hash 2a3ce76c4d4385f9361ce94f6ebc1c35edfa493711ded828d04ccc3f243e0afe), this will cause launch time delays
+[26Jul2025 18:11:27.101] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3 is being run through DFU (hash 7288b40bb80f4f2185d1da5a6e6581293a652e022a57b14265f0322c0cd2b1b3), this will cause launch time delays
+[26Jul2025 18:11:27.101] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16 is being run through DFU (hash 9b88ce5b03b8fddfb96360417943666bd6018109246135e0fb5dae1198a7fd71), this will cause launch time delays
+[26Jul2025 18:11:27.102] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_22 is being run through DFU (hash 974c79a39a55439f25442b0c6325c91c9f61495245ec8a73f2989847693e1b91), this will cause launch time delays
+[26Jul2025 18:11:27.103] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15 is being run through DFU (hash 2cc382389227e669306063c31f01aeea0fbd053b8aa455f3f5685cc642bedc6d), this will cause launch time delays
+[26Jul2025 18:11:27.104] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4 is being run through DFU (hash b734d24070a870942f4193be75a3c9a9fed150327f4aa3ae81ac7edf446760de), this will cause launch time delays
+[26Jul2025 18:11:27.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2 is being run through DFU (hash 94df3aaa8de8eac99451d5ef1b89dd9a154db7b8458b8228563007e9fb8dbad6), this will cause launch time delays
+[26Jul2025 18:11:27.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11 is being run through DFU (hash c419a724ea46c208c7600a3c938672103a1c2eca6c26c5b11f659146354d40a6), this will cause launch time delays
+[26Jul2025 18:11:27.107] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13 is being run through DFU (hash d84038d082c6a325b66d73294de5e793f54579dfc7bd50b076db8b5323eb8f5f), this will cause launch time delays
+[26Jul2025 18:11:27.108] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19 is being run through DFU (hash 249944f7f88532aedd693c44c07c0aa1f42407a0e3613536d06536f36641a1dc), this will cause launch time delays
+[26Jul2025 18:11:27.109] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20 is being run through DFU (hash 9a20c2c3f43f7f64d2f23d82c6b7778b8944e40a600de92a8a50fcd1fd164423), this will cause launch time delays
+[26Jul2025 18:11:27.110] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4 is being run through DFU (hash 79a11e41c494676ddd38e05a6fa80cdbbd16767be2a8eed98e7d3399d2d9e10e), this will cause launch time delays
+[26Jul2025 18:11:27.110] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15 is being run through DFU (hash 95e08a2bd8b99d513aa17b9cebe815c266f60067685ab6133cab889ec200998d), this will cause launch time delays
+[26Jul2025 18:11:27.111] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_17 is being run through DFU (hash 0fd1bdb7d419516a1639b87fe16140c83de7cdd8cfe35ebb579c62acd1584ee8), this will cause launch time delays
+[26Jul2025 18:11:27.114] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8 is being run through DFU (hash 28c076debbd2cfaa8954d3321b77b99b54716337225106aea7509b871a497a0d), this will cause launch time delays
+[26Jul2025 18:11:27.115] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_3 is being run through DFU (hash 3bca22fbb3ee01c64ef6645c2db7c553ddea8b2f094b2d0485d4bf2dbf553bc3), this will cause launch time delays
+[26Jul2025 18:11:27.118] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2 is being run through DFU (hash ec84457a81b27c8076b3507dc0bf63c90d6cb8d0a3e784a5b2b9a32873193405), this will cause launch time delays
+[26Jul2025 18:11:27.119] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5 is being run through DFU (hash 7abbf53f36828075793c3604cfb488329056d76d45697c26e71ad461d600f0f0), this will cause launch time delays
+[26Jul2025 18:11:27.120] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16 is being run through DFU (hash 0bc2f36a2f5b426463fb4618cc6af0bb08f141834d1f45a80a4955954c95fe7a), this will cause launch time delays
+[26Jul2025 18:11:27.121] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20 is being run through DFU (hash 98d64678a6d66314450a5159925e312f421437dbbc7ae52d525921cce185961d), this will cause launch time delays
+[26Jul2025 18:11:27.124] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8 is being run through DFU (hash 23600f179a284ce2d346d6de99d6994682e1660d1e973f1a2c6f36e71440b517), this will cause launch time delays
+[26Jul2025 18:11:27.125] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17 is being run through DFU (hash 766c40361a9cb36dee7ba2b79f58d88c28980d5e4ddf5e586eec6dfa3edff968), this will cause launch time delays
+[26Jul2025 18:11:27.126] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_16 is being run through DFU (hash 9e1656b8099e1428e186b406ed08dbddde75a111885e775430862fc2ae6a3f8a), this will cause launch time delays
+[26Jul2025 18:11:27.131] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3 is being run through DFU (hash 23f73b3192634b43d30e7a21d87eceaaf44c0e931d195d42ade527369aa75f70), this will cause launch time delays
+[26Jul2025 18:11:27.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_12 is being run through DFU (hash 9aa2afb112fd5fd0cc44acc3b7e7ce74b51ee97973518b3ab5d4e2c695d316b6), this will cause launch time delays
+[26Jul2025 18:11:27.134] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17 is being run through DFU (hash 8366bf3e284869ae04c09f8c2e0d0c69911e515c62553b2266cac8774a37f560), this will cause launch time delays
+[26Jul2025 18:11:27.136] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11 is being run through DFU (hash f660c4b9fb7a58d57b94ec95eb3af15c510377aa149563d604ca9862d5525240), this will cause launch time delays
+[26Jul2025 18:11:27.137] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_18 is being run through DFU (hash bbe0c679db78098077ac820467fe55a7616161d55ecb770cb11972dd76e5b183), this will cause launch time delays
+[26Jul2025 18:11:27.139] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10 is being run through DFU (hash 718a88b4e6931608d630d0ec3c0817b5d612e75d5758ff7312c579f1c9e039ed), this will cause launch time delays
+[26Jul2025 18:11:27.140] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_2 is being run through DFU (hash e23400f60dbe28cd7d8eeb2dbcc6d069f23ee3b44881a5413baddea62315e788), this will cause launch time delays
+[26Jul2025 18:11:27.143] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19 is being run through DFU (hash c8bcae8edfc941429e25e6799474a3b26475b5c2fc90713206e1d815cc246e30), this will cause launch time delays
+[26Jul2025 18:11:27.146] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_0 is being run through DFU (hash d1b02dc41ea36c8151a26f0a74a80c05f7b412728e2c242fc43e7fb187272768), this will cause launch time delays
+[26Jul2025 18:11:27.148] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5 is being run through DFU (hash 09d0beca27827c1c186ae368c4ee7c2e9843c6bb85c01a85efd9b48c33989b42), this will cause launch time delays
+[26Jul2025 18:11:27.150] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19 is being run through DFU (hash 1a6c4d10d62611d706e91e825ef23df3e368b93d1e3ab6e57f9fcffd773be476), this will cause launch time delays
+[26Jul2025 18:11:27.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12 is being run through DFU (hash 0d08ebef46fb3865be22205f41cb8514ed463e4114470fa09366c9ac42b0a697), this will cause launch time delays
+[26Jul2025 18:11:27.154] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_15 is being run through DFU (hash 11300175cd4eec9186ad9a22d5d81fab80c7f0023c921c58f1cdb13215c0fb97), this will cause launch time delays
+[26Jul2025 18:11:27.157] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_23 is being run through DFU (hash 2e1196c95a9dfd8b753721234b22bd035e1cf6888a34008b3a642af39d5edf50), this will cause launch time delays
+[26Jul2025 18:11:27.159] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16 is being run through DFU (hash a9d23ed74bfdb336b202f669c02983414e5ac879cc078be11ddc7505a37e7f2e), this will cause launch time delays
+[26Jul2025 18:11:27.160] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10 is being run through DFU (hash aed80fc6359775cc380c1c02dbcbf0949d96ca294e7f7103e200d209c058cc27), this will cause launch time delays
+[26Jul2025 18:11:27.165] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1 is being run through DFU (hash e5e1ee9166d72c0aa4105c9d495dc4dd5ecea0dcb4af289a7f753eb3069ac5e3), this will cause launch time delays
+[26Jul2025 18:11:27.167] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7 is being run through DFU (hash 611ec66b4ecbe7ae3c1da6f2484167a5b203280a65cad7626b2f03ae77322f16), this will cause launch time delays
+[26Jul2025 18:11:27.168] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14 is being run through DFU (hash 56cbc12c01b5114a01d68f0d1d5734b1684080c34d4d975dfbcc5fdea31c5dcc), this will cause launch time delays
+[26Jul2025 18:11:27.170] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14 is being run through DFU (hash 0fa9b67df875d0dcc60edcd16bd1d761709eff90d68e3ee2c5c5ea10aeeb6935), this will cause launch time delays
+[26Jul2025 18:11:27.171] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17 is being run through DFU (hash 14ac575ed22d5ba658084df8526830d806767a7db3997fa74adc5afb5ad56b4c), this will cause launch time delays
+[26Jul2025 18:11:27.174] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6 is being run through DFU (hash 2bf3f4c3cea8377ce2e546ced0022eecd26b670e8cce417180d95d435616870a), this will cause launch time delays
+[26Jul2025 18:11:27.184] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_7 is being run through DFU (hash 652d1e3617b3902f206071b2098dc98be48710313011d19905671aa287f17974), this will cause launch time delays
+[26Jul2025 18:11:27.199] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1 is being run through DFU (hash 3976a983b18fbfba1f4da2918ff8d47f2000aa1a45becd83dea4485be1b73c1f), this will cause launch time delays
+[26Jul2025 18:11:27.203] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_8 is being run through DFU (hash 8f032096b3d6a48293c59b6aad0e078adf3821eadaeddf7d836a4fb3ac89d68a), this will cause launch time delays
+[26Jul2025 18:11:27.226] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_6 is being run through DFU (hash fc05f33ada7c7d18ba5c5efa246fd8d6bc50e80469a4a88582757d9099da4a76), this will cause launch time delays
+[26Jul2025 18:11:27.240] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2 is being run through DFU (hash c05565715565322380229eb3423f3a02ef1d4e0edbde38afc3aa8558df05f93b), this will cause launch time delays
+[26Jul2025 18:11:27.244] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_4 is being run through DFU (hash d107ec2e936a111d870b9b74b6bd0cb4fd6605190e5ea4ebaedc1be6717bb1b3), this will cause launch time delays
+[26Jul2025 18:11:27.254] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_9 is being run through DFU (hash bade0bd20eebf6fed23b2ad51abba94742a239f55d5938615fd64498d2e2231a), this will cause launch time delays
+[26Jul2025 18:11:27.264] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special is being run through DFU (hash 79bdac590051edc03db009eefdba3442d57506c30e1a76e4124d97b28199016d), this will cause launch time delays
+[26Jul2025 18:11:27.302] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_1 is being run through DFU (hash 09c89bfb8ddc244034946901583771baeda24cbf3827932c0c6173557c78af81), this will cause launch time delays
+[26Jul2025 18:11:27.312] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_10 is being run through DFU (hash c8bb83851476a0958f768eb6e297164d888b135b617d303c3bd7d16becd955d7), this will cause launch time delays
+[26Jul2025 18:11:27.326] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_0 is being run through DFU (hash b992ed651474899e8133a0acecaae1c7f1056ffa0cf0c4cccef5819885a92967), this will cause launch time delays
+[26Jul2025 18:11:27.339] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0 is being run through DFU (hash d693424528592c306e5ad6e7c46699b466ae991ab78e9059240139512816622c), this will cause launch time delays
+[26Jul2025 18:11:27.397] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_5 is being run through DFU (hash a2e028be904181108a112ab530725581f22fd0e59d2368e08f8a10593e84badb), this will cause launch time delays
+[26Jul2025 18:11:27.404] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_1 is being run through DFU (hash 2dc0362aca29df48e3d9ab25e688fb5a75b062f24e71b5f9265dcece60055d33), this will cause launch time delays
+[26Jul2025 18:11:27.465] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3 is being run through DFU (hash 970de7ffebc78a17e961b80cf308c22904c9dd092b5fd4ee298eb4b2577d24b0), this will cause launch time delays
+[26Jul2025 18:11:27.474] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_2 is being run through DFU (hash 8785e30eaea43255b75825416ac783b928e3818dfb8742587efa4875a715778d), this will cause launch time delays
+[26Jul2025 18:11:27.530] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_1 is being run through DFU (hash 73f85c28e23280ead1c5a8dc19fc14f56a8f19bd5872736cf0721b6ecec2f89a), this will cause launch time delays
+[26Jul2025 18:11:27.539] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0 is being run through DFU (hash 11237f38e0c04c6019e8f16fb3bc4207cce59a272221bdcb2a138eff0f6249cd), this will cause launch time delays
+[26Jul2025 18:11:27.547] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator is being run through DFU (hash 947b742e773092ba35045801f2999deb758830983a30d4c8f798222960239d45), this will cause launch time delays
+[26Jul2025 18:11:27.551] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4 is being run through DFU (hash a7f6ddd1af912bc083307324a4fbb741dbeee9e70693e9549d2675511517a997), this will cause launch time delays
+[26Jul2025 18:11:27.554] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator is being run through DFU (hash bd84a126d5737c6e90a7ec65ea4d5ddd2ba0659f4529f58c58988696f8e8a3c8), this will cause launch time delays
+[26Jul2025 18:11:27.570] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_0 is being run through DFU (hash 792c7b4f974d377413961ce159fe2e6cf6767405d99b9ba8654631be1ee1b850), this will cause launch time delays
+[26Jul2025 18:11:27.609] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_1 is being run through DFU (hash 91c62c3fe012bdc600bef6efdc9db1f60323ad4ad61901ceb536be51f1f4760d), this will cause launch time delays
+[26Jul2025 18:11:27.622] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_1 is being run through DFU (hash 23535c938827e803d9fdfc8cdcf2f2cd4c7ec810e1538d459f663754a4276259), this will cause launch time delays
+[26Jul2025 18:11:27.662] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_5 is being run through DFU (hash 4a94576fc526b8babbf53016f058409e3ab6b6415b948aaa88a6debaab823094), this will cause launch time delays
+[26Jul2025 18:11:27.731] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_3 is being run through DFU (hash 679b27087ad10b25d6b875705f3d8ed229d07c91055b1dfd06e2a58fe2c0c9d4), this will cause launch time delays
+[26Jul2025 18:11:27.782] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_2 is being run through DFU (hash 5b8ee0e18796e59754ea239a09a545dc54cb8f523ace459ae8b61b42c7b6c22d), this will cause launch time delays
+[26Jul2025 18:11:27.854] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_4 is being run through DFU (hash 7ddfda052c3c0a9a21631fd69931b85d3dab3ae6bf602b825caa787f6bf80735), this will cause launch time delays
+[26Jul2025 18:11:27.917] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_9 is being run through DFU (hash 741debdf991a502f0aa91633b6053aa8a001e1c18df8305ddb7086fe71913da4), this will cause launch time delays
+[26Jul2025 18:11:28.001] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_8 is being run through DFU (hash 8813c8432f9812b7c63486ed0dfbd6b90df4d50084475d65dea98c4c67126ae2), this will cause launch time delays
+[26Jul2025 18:11:28.086] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_6 is being run through DFU (hash 1f4b8e374a9e5533deec3dd2e5c42c0a2e9e90df8cb6763cc6b1c520c73dc6f2), this will cause launch time delays
+[26Jul2025 18:11:28.148] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_7 is being run through DFU (hash 2e9b2faad0bf1b833cee56a5d3e89e88770b8b78e0965c6dec79145465595898), this will cause launch time delays
+[26Jul2025 18:11:28.234] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_10 is being run through DFU (hash 9ee2a2ca99c339aef91fbadd20d3e2118afdba4b5920b63f1615157c2c84476c), this will cause launch time delays
+[26Jul2025 18:11:28.305] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_4 is being run through DFU (hash 66ecdeed3e2cf34a344c7d50320f2a3e78370bc99705c093492803b23c9062f1), this will cause launch time delays
+[26Jul2025 18:11:28.315] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_4 is being run through DFU (hash 158c0e8798618a01b9ae627fb9a61ba778fe15bcd2e57d43b6c1e329da2b8f04), this will cause launch time delays
+[26Jul2025 18:11:28.339] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_4 is being run through DFU (hash b6cd623b7c32d175845a879d623196946977d167e24cd58793dea228143dad14), this will cause launch time delays
+[26Jul2025 18:11:28.385] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_2 is being run through DFU (hash ad35189e3fb55e0067f8c79d46ac24470f3b36b04fc8bbfbd9c0d719a1d19b28), this will cause launch time delays
+[26Jul2025 18:11:28.419] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_2 is being run through DFU (hash 4973efd27cb28ada74195bea452551d8d198693daf3ba5f9ab1085f7990a4c23), this will cause launch time delays
+[26Jul2025 18:11:28.424] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_0 is being run through DFU (hash cbc852ac1e1d9008ea490e0b8980bdeb447782ca3e2136ab23a57ca871da739a), this will cause launch time delays
+[26Jul2025 18:11:28.429] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_5 is being run through DFU (hash 218c2bc036f38c713c441aa329ce0efe7c06311cd5d6116c33daf094c7314401), this will cause launch time delays
+[26Jul2025 18:11:28.434] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_3 is being run through DFU (hash daf8dafe9b245f5da2f552700daa9a21e4b33b915f53b215fbdc1798e9e3442d), this will cause launch time delays
+[26Jul2025 18:11:28.444] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_3 is being run through DFU (hash d88e2e6b8e3fae929758b599eb063011114ad492c23e7527c822383dbc4e356d), this will cause launch time delays
+[26Jul2025 18:11:28.492] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_5 is being run through DFU (hash 08a82d83e14337814c13ce70044c5ef08ac1966aa4ce42d426e9d961b2b23210), this will cause launch time delays
+[26Jul2025 18:11:28.584] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special is being run through DFU (hash f23c1c676c32ea57a735314087791868e718466ffcdb458540629abdba1af2a5), this will cause launch time delays
+[26Jul2025 18:11:28.703] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_1 is being run through DFU (hash 158c9996afcd6ddf6e998e702e971056246843dfeae20c2bf6e87c88d6ab4f42), this will cause launch time delays
+[26Jul2025 18:11:28.747] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special is being run through DFU (hash b74d23bd46c77993cf294deaa5b8c8160964015a59110993b3af0107051cb307), this will cause launch time delays
+[26Jul2025 18:11:28.793] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_0 is being run through DFU (hash 009e0b5cfac0d5635c5055c02c2b3e38875ecd0a04276260e63b192187ab71b9), this will cause launch time delays
+[26Jul2025 18:11:28.841] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special is being run through DFU (hash de0af29008128ee57af6875524435f9b4bafcdea6ecd3f9bde5a429899c31c4f), this will cause launch time delays
+[26Jul2025 18:11:28.924] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_6 is being run through DFU (hash 84ac147a2b5dcff879b61a08ee125a970bdee175ee8463c5dd62d0d56c091f7c), this will cause launch time delays
+[26Jul2025 18:11:28.949] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_5 is being run through DFU (hash f0342c897318ca8897ec9dbd67057612f1969e116050601cf1ea5df2566bb431), this will cause launch time delays
+[26Jul2025 18:11:28.974] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_7 is being run through DFU (hash ff933f1c9b38aa5a39c7fbebc54af02f89d8b420375fe42eecc1f66b4212e2e6), this will cause launch time delays
+[26Jul2025 18:11:28.996] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_3 is being run through DFU (hash 984efe6c0b6a0fe7f262246db3bb7f40727ad09a2d5269f0eae4102d4651d956), this will cause launch time delays
+[26Jul2025 18:11:29.021] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_8 is being run through DFU (hash 5a2561c17e3d4d147dfaa31ac26787b2ce2907ecebde6575d30d5449e147934b), this will cause launch time delays
+[26Jul2025 18:11:29.030] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_2 is being run through DFU (hash f3ecc8c2c88c3cfb50be52e035b300dd591cd51f0b39383ed44578984dfa9869), this will cause launch time delays
+[26Jul2025 18:11:29.035] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_8 is being run through DFU (hash 7e9778837b8d66c529672aa39f36a01e85ece5ccab86514dc0b2ebd509acac70), this will cause launch time delays
+[26Jul2025 18:11:29.055] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_7 is being run through DFU (hash 96f9b66e12fb9893901c83547b06eebcc1b08a213c01482fe9e686ababf66b83), this will cause launch time delays
+[26Jul2025 18:11:29.086] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_9 is being run through DFU (hash f5f0c247a834a68bd513ae863bf3db1d9d7b7f4e85cc723021f62c01ff451ac1), this will cause launch time delays
+[26Jul2025 18:11:29.102] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.107] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_1 is being run through DFU (hash 5531482a07234b18fe8405b3104890f19961383347df0fa930cc46da3a2c92f9), this will cause launch time delays
+[26Jul2025 18:11:29.137] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_1 is being run through DFU (hash d48c81e7081f479b028f7439b692508014698d6ee9f9aeaac771525c5d4e6a12), this will cause launch time delays
+[26Jul2025 18:11:29.139] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_6 is being run through DFU (hash 9c4c8aed696712a7311b20bb525544796ec64ebd8e6bf7944c170faf45c6152c), this will cause launch time delays
+[26Jul2025 18:11:29.142] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_4 is being run through DFU (hash c1387c4075acd2d90a97db3671ac5699d54e9895b4c2a22a9f1d46dae3742af1), this will cause launch time delays
+[26Jul2025 18:11:29.146] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_0 is being run through DFU (hash f05a2a42d34d319df5f12de32e1579a6299ad72824f3596489ad761a075a0e87), this will cause launch time delays
+[26Jul2025 18:11:29.150] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_5 is being run through DFU (hash ff7db1cccfd62e9e2a0e2bf4c52306e2bc3f0b3332fd46f58d6d66d29e19f7ef), this will cause launch time delays
+[26Jul2025 18:11:29.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_3 is being run through DFU (hash c0bd74bd60fce480afbdae80d0768383a66b614b12292b96acc511b6dedf9536), this will cause launch time delays
+[26Jul2025 18:11:29.165] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_0 is being run through DFU (hash d43ee1cf165d2ab3cff7ef199cdbfaba33882590f07ab82e482d884453684a33), this will cause launch time delays
+[26Jul2025 18:11:29.190] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_2 is being run through DFU (hash c996a6fed48ce7c3918f6f53bbf3086a26b665501dc80c59449719ed5d0209d7), this will cause launch time delays
+[26Jul2025 18:11:29.219] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.241] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.277] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.290] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.308] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.332] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[26Jul2025 18:11:29.423] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_1_support is being run through DFU (hash 4f7f810cf939a890bb4b32e34167f81ea04a577dcff291f172cf62917655d9ca), this will cause launch time delays
+[26Jul2025 18:11:29.435] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_0 is being run through DFU (hash 2b547d239388e0eb8fd8040780a38a0a3da7c931a373b80cca729cef06dd6d9e), this will cause launch time delays
+[26Jul2025 18:11:29.448] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_0 is being run through DFU (hash b1453eefe9fe5d2fcb8cb824eb32fadd5135c7912a75e73bcf7fd3c9058cd538), this will cause launch time delays
+[26Jul2025 18:11:29.458] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower is being run through DFU (hash c3030a4d3e6cba3a1131585a6597e2c33da2dcd0aea48e45f390812ab2382267), this will cause launch time delays
+[26Jul2025 18:11:29.464] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_1 is being run through DFU (hash 94b6c76aff3d00ebc7166d94420a4be61f22e3785876404546dbe88d8758205d), this will cause launch time delays
+[26Jul2025 18:11:29.475] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator is being run through DFU (hash 11c0e78c12fd58e12e33bec70ef8dd82e72a0bced08c6b33bff1247255a1b70f), this will cause launch time delays
+[26Jul2025 18:11:29.477] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1 is being run through DFU (hash b8f28ad9e1cfd236ae193a019f8865360be850d000af02970faa6a2b2a9edc33), this will cause launch time delays
+[26Jul2025 18:11:29.483] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2 is being run through DFU (hash 177d1d6f80e09c2e860eeec7a45a480ace442e555b7819a982771037cc8d6d4c), this will cause launch time delays
+[26Jul2025 18:11:29.495] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2 is being run through DFU (hash ff9b3355f235952236a63127ffb6c51054ad072ec299d432390cd262d2cfac40), this will cause launch time delays
+[26Jul2025 18:11:29.502] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main is being run through DFU (hash e6624f80f72fa3676beb8d0be9eea6e31f0e2b61268eca22949954e725b1a9e5), this will cause launch time delays
+[26Jul2025 18:11:29.508] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small is being run through DFU (hash 463216b9566337e5b052dcb5b4f32427b54e3ea9fe0d0e09ea94b95788bb2621), this will cause launch time delays
+[26Jul2025 18:11:29.511] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken is being run through DFU (hash 45541e09b3e555457704d88eed1c069c12ad7cb8201f04e9eaa89a0ecd931d6e), this will cause launch time delays
+[26Jul2025 18:11:29.521] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top is being run through DFU (hash 6da0377dd10d6289c253445eddc2769f618447f9d04f280fda441830f42ebcd8), this will cause launch time delays
+[26Jul2025 18:11:29.527] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom is being run through DFU (hash 9170499fda863c43f8a6e86acf965a7f243abb8ff34c1e857053ee7c934a0008), this will cause launch time delays
+[26Jul2025 18:11:29.529] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator is being run through DFU (hash 4c0385480aa572ddeb8ce09046d5498323b15bfdcd374b9c210e6f8436c5cc79), this will cause launch time delays
+[26Jul2025 18:11:29.531] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_4 is being run through DFU (hash 733765f3fe42d05854d16482362b4ba3f798419df69e56e282336d01e6775dd4), this will cause launch time delays
+[26Jul2025 18:11:29.540] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0 is being run through DFU (hash a7af0175c7cd1930eb98bafb2ec195a9e02e67887feb5a18a4e4b47538c8caff), this will cause launch time delays
+[26Jul2025 18:11:29.552] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1 is being run through DFU (hash 468fbcac7fa194bb12b8fabeb5ebda2d31426066f5f23c2ed70564b9cbbbf70f), this will cause launch time delays
+[26Jul2025 18:11:29.565] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower is being run through DFU (hash 1e955fc596f3b485b90ff0140594d0752667721a8e2bd3bf9062b88e59bfd233), this will cause launch time delays
+[26Jul2025 18:11:29.571] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0 is being run through DFU (hash 4a785ac9b5fa70e5c5234147ac8a926a554fb1fbf975b36af07a3fa647ed8098), this will cause launch time delays
+[26Jul2025 18:11:29.577] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0 is being run through DFU (hash a27ba48cef2f61f0ea23b997bbef6bc37b438f77d82daba1234dfa8efebc5a14), this will cause launch time delays
+[26Jul2025 18:11:29.580] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0 is being run through DFU (hash 847273b60978f5ce5b6994818888dbe2dad4ad5e663777c73e0cc957410ebce1), this will cause launch time delays
+[26Jul2025 18:11:29.585] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_5 is being run through DFU (hash 5fbcb18a3532751d49fbe33451677e198ce28a5d5e0240c50fdb41c712a9c9ae), this will cause launch time delays
+[26Jul2025 18:11:29.601] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_3 is being run through DFU (hash cdd42b7ad3a91a84b244dd890a53eac3368c7fbee27c45ac18fced742117f86a), this will cause launch time delays
+[26Jul2025 18:11:29.611] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_0 is being run through DFU (hash 2934969fc51ffa8d6e35d4ef46383ba4af678237ab0965e859947ba418839cea), this will cause launch time delays
+[26Jul2025 18:11:29.618] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_2 is being run through DFU (hash 64e73649b5c4c2ceec30791970ee5841dcb99c8cf97cc51a5d0a3665a48e98ba), this will cause launch time delays
+[26Jul2025 18:11:29.627] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_1 is being run through DFU (hash 53bf0dd65c9acac44c1d91ea6ada46a9ce25659447de6c90588a2b86915cc19f), this will cause launch time delays
+[26Jul2025 18:11:29.635] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0 is being run through DFU (hash 8d46d982fdb95c3bb9f24627c6ddd89345c1a344ba0c9e9d26aa85eb6af9111d), this will cause launch time delays
+[26Jul2025 18:11:29.639] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0 is being run through DFU (hash fce82562a7d01bf6066ef0f9f0e1fa925e0ff8f734bae5e85273d018e36d09c8), this will cause launch time delays
+[26Jul2025 18:11:29.645] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1 is being run through DFU (hash 0ceea9e380ec4d5694214df5430b48cd4ffcecd41717f34ebc5365268ca002d1), this will cause launch time delays
+[26Jul2025 18:11:29.650] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0 is being run through DFU (hash cd6068f01900209645d6014ce3ae526efc80e57902085f2df7593e67abfc43e2), this will cause launch time delays
+[26Jul2025 18:11:29.653] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_witch_0 is being run through DFU (hash 16c54db650aada13f4bd51639ed76af958381de145d0a99d928825ce5cd9ef79), this will cause launch time delays
+[26Jul2025 18:11:29.809] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_passage_0 is being run through DFU (hash 6b85c5fa545ff341f24b92702148a68717e41a95e15f86673a0dd520ec21de66), this will cause launch time delays
+[26Jul2025 18:11:29.811] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_passage_1 is being run through DFU (hash bd1b29b0e30dc4bbb19eac009d878a5dbbb5f7f40a76388ba6da8dc8ac1046b4), this will cause launch time delays
+[26Jul2025 18:11:29.814] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_6_water is being run through DFU (hash b24df29cbaaa3a5bd485bbc4fadb4e29526577b7659c2f8be97d11c1d2e2a548), this will cause launch time delays
+[26Jul2025 18:11:29.830] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_5_brews is being run through DFU (hash 090a8f80ec82cdeba228fd87e708c7e8f9c4624e7a784f79c1626a9f3f3ebda9), this will cause launch time delays
+[26Jul2025 18:11:29.842] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_1_double is being run through DFU (hash d68f7e3a0d0e2fa163e1b295a31e90ef6fa9207bd0ddf6bd54c251c06d6e6edb), this will cause launch time delays
+[26Jul2025 18:11:29.860] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_4_pit is being run through DFU (hash fd0cc4c406a2a39228563fd5c56f925cc9945cbefa32e7dfed1ec713f6d39fff), this will cause launch time delays
+[26Jul2025 18:11:29.883] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_3_cells is being run through DFU (hash 618db978e6717617498dae39af595aa6f831b735d736fce6895aea476939667c), this will cause launch time delays
+[26Jul2025 18:11:29.891] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_0 is being run through DFU (hash 8dc395a7d2a3a687a39fc63b86716b86677c3815df312c7858e13c9b276c5a90), this will cause launch time delays
+[26Jul2025 18:11:29.900] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_room_2_double is being run through DFU (hash 9ceaa8d8f5749236ba2ba0ad38499cd89fe9b357eb007dd2f6d9c92085184a59), this will cause launch time delays
+[26Jul2025 18:11:29.912] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_witch_0 is being run through DFU (hash 1a5ea443818a1d0a913dc013a020e9e5a819c5738a49127dea359089b7752a15), this will cause launch time delays
+[26Jul2025 18:11:29.915] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_skeleton_2_wither is being run through DFU (hash 9d3ab65b5bb43e77d62d0be4ee7e12218db562ecc5a9d9b3c73caa07abc86294), this will cause launch time delays
+[26Jul2025 18:11:29.918] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_evoker_fangs_0 is being run through DFU (hash 6cb5f7f8b101ba1fc32fb555a9f1934e48cdb0d3e61d344ed9c817020f279490), this will cause launch time delays
+[26Jul2025 18:11:29.920] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_zombie_horde_0 is being run through DFU (hash b38fd70b5bca1de427cf66c443c572199e9a22c56c3e32046a6603d03b045be8), this will cause launch time delays
+[26Jul2025 18:11:29.924] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_skeleton_1 is being run through DFU (hash 6fac4b09439d9a19cea97b3e517001914c557a640a46b7c7386519daccac83c9), this will cause launch time delays
+[26Jul2025 18:11:29.931] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_skeleton_0 is being run through DFU (hash fe04001b377a1a4143689760de234dff1560d171b32eddb0cf86af1c3fb53e6e), this will cause launch time delays
+[26Jul2025 18:11:29.938] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_3_stairway is being run through DFU (hash 1c1e87ab59b61c43739516313d30e7eced9dfbc2e515995910b6abe32a91182d), this will cause launch time delays
+[26Jul2025 18:11:29.950] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_1_cells is being run through DFU (hash ef3f737333ada492e616f83adb212ee9520c6562439d6b2dc1e20938b9c4dddb), this will cause launch time delays
+[26Jul2025 18:11:29.960] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_0 is being run through DFU (hash a21749a074d81ea2a6b6d75f370a2296ab5857c88177762feed22d46488b102d), this will cause launch time delays
+[26Jul2025 18:11:29.966] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_2_crossing is being run through DFU (hash a29a496f5b429b3e029d1462098c37d947a73ea632645de62a7167b052685f3e), this will cause launch time delays
+[26Jul2025 18:11:29.973] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_passage_2 is being run through DFU (hash 60c10e4fa796a6160ac6516198793fb7a0f9ee1d2ec84effff4d886abae630b6), this will cause launch time delays
+[26Jul2025 18:11:29.975] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_3 is being run through DFU (hash 68341b34fc692ae6be1d05a0fe0f7f819fe93af31407a3d0a9fca462a40b177f), this will cause launch time delays
+[26Jul2025 18:11:29.979] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_security_3 is being run through DFU (hash 734c092c6eaac5bd2a0d1c74ed8ec6aaa2da0b4a22e60bbfb403a712ebe07c09), this will cause launch time delays
+[26Jul2025 18:11:29.983] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_0 is being run through DFU (hash 9016ee6591d3e7989632aef1aba799a0ec59b7ea77f46a440787d24aa6434795), this will cause launch time delays
+[26Jul2025 18:11:29.987] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_security_4 is being run through DFU (hash d4d3f5316eb8f5f9afb3fdf1cea3fcd06f014f1691f2ea34f113c51757be0f71), this will cause launch time delays
+[26Jul2025 18:11:29.990] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_security_2 is being run through DFU (hash 1853167b9e6c7f24621a075f4013d7274daa62758b4da5e75f004112ddbdba82), this will cause launch time delays
+[26Jul2025 18:11:29.992] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_security_1 is being run through DFU (hash 68d2a0f93c21fe116c76e39d4ea6230f0bef73dce5d1fb88499bc6fa834c5926), this will cause launch time delays
+[26Jul2025 18:11:29.995] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_security_0 is being run through DFU (hash 402fef8f530be83aed2f6d3ab42055f35cdc24738e43e6600a6b5a6a1519e7d2), this will cause launch time delays
+[26Jul2025 18:11:29.997] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_1 is being run through DFU (hash 77bdecdcc0d80bba434b72abd12ced50150368e74a4bb667597a2deac725b2b6), this will cause launch time delays
+[26Jul2025 18:11:30.000] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_4 is being run through DFU (hash b6b3a26603bd45c6b7e4e2e4f94625c65e5c0c44759fb91bf8d999eb4a54d331), this will cause launch time delays
+[26Jul2025 18:11:30.003] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_6 is being run through DFU (hash 2bdf9948a3c4e78cba1a9f65659f27a7e4590defb2b46dd126d16e8ba81085ae), this will cause launch time delays
+[26Jul2025 18:11:30.007] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_2 is being run through DFU (hash ca8def0bae8f525ea43b4c206e48b1ef4cb4658679ba4da2ac06a3cd1132f8c4), this will cause launch time delays
+[26Jul2025 18:11:30.010] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_cell_normal_5 is being run through DFU (hash d26a843ea424a7771fd60350da13b61c08b73fe4e1086c04f2a5ce2ad1179c8f), this will cause launch time delays
+[26Jul2025 18:11:30.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5681ms or 113 ticks behind
+[26Jul2025 18:12:26.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 18:12:26.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
