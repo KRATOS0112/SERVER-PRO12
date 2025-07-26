@@ -3730,9 +3730,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-26 17:22:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/river_stairs": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
     },
     "done": true
   },
@@ -3748,9 +3766,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/river_slab": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
     },
     "done": true
   },
@@ -3802,9 +3838,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/redstone/river_door": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
     },
     "done": true
   },
@@ -3817,6 +3865,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-07-26 16:43:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:48 +0000"
     },
     "done": true
   },

@@ -3142,9 +3142,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-26 17:23:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
     },
     "done": true
   },
@@ -3196,6 +3208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 17:18:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
@@ -3232,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-26 17:21:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
@@ -3262,6 +3286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-07-26 16:30:33 +0000"
@@ -3271,6 +3301,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 17:18:18 +0000"
     },
     "done": true
   },
@@ -3388,6 +3424,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3418,9 +3460,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
     },
     "done": true
   },
@@ -3526,6 +3580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-26 17:21:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3559,6 +3619,12 @@
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-07-26 16:45:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
     },
     "done": true
   },
@@ -3622,6 +3688,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3643,6 +3715,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 17:18:18 +0000"
     },
     "done": true
   },
@@ -3724,6 +3802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-26 17:18:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3763,6 +3847,12 @@
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-26 17:22:59 +0000"
     },
     "done": true
   },

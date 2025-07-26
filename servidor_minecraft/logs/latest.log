@@ -1291,3 +1291,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 17:21:01.703] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [26Jul2025 17:21:01.727] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [26Jul2025 17:21:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:22:57.409] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Take Aim]
+[26Jul2025 17:23:06.296] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:23:06.314] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:23:06.514] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Take Aim]
+[26Jul2025 17:23:11.802] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:23:11.821] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:23:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:23:17.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ice Dragon
+[26Jul2025 17:23:50.452] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:23:50.467] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:23:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:24:23.711] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:24:23.713] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:24:28.806] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:24:28.823] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:24:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was frozen by a dragon
+[26Jul2025 17:24:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:24:55.055] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:24:55.075] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:25:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:25:14.398] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:25:14.415] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:25:19.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy tried to swim in lava to escape Ice Dragon
+[26Jul2025 17:25:19.019] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:26:20.149] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:26:20.163] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:26:27.307] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:26:27.323] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:26:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was frozen by a dragon
+[26Jul2025 17:26:34.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:26:55.153] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:26:55.169] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:27:01.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was turned to ice by a dragon
+[26Jul2025 17:28:21.910] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:28:21.915] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:28:31.350] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:28:31.362] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:28:38.152] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:28:38.163] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:28:44.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:29:31.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was turned to ice by a dragon
+[26Jul2025 17:29:35.501] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:29:35.513] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:29:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was turned to ice by a dragon
+[26Jul2025 17:30:35.944] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:30:35.965] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:30:36.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Dragonslayer]
+[26Jul2025 17:30:42.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was turned to ice by a dragon
+[26Jul2025 17:31:31.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
