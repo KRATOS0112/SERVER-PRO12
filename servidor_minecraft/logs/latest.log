@@ -2490,3 +2490,31 @@ java.lang.Exception: null
 [26Jul2025 02:44:41.743] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
 [26Jul2025 02:44:41.773] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
 [26Jul2025 02:44:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 02:46:31.848] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 02:46:31.857] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 02:46:39.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 02:47:05.907] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 02:47:05.914] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 02:47:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by shagyy
+[26Jul2025 02:47:30.651] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 02:47:32.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[26Jul2025 02:47:41.452] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 02:47:41.484] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 02:47:50.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
+[26Jul2025 02:47:50.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Mimic
+[26Jul2025 02:48:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Lighthouse]
+[26Jul2025 02:48:16.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[26Jul2025 02:48:34.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
+[26Jul2025 02:48:53.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[26Jul2025 02:49:11.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[26Jul2025 02:49:35.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[26Jul2025 02:50:06.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Jul2025 02:53:45.049] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 02:53:45.053] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 02:53:51.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 02:54:23.043] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 02:54:23.050] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 02:54:30.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Chain Death]
+[26Jul2025 02:54:30.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 02:55:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [A Strange Grave Dust]
+[26Jul2025 02:55:40.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Cursed Soul]
