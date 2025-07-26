@@ -393,7 +393,9 @@
       "minecraft:frozen_river": "2025-07-26 02:47:24 +0000",
       "minecraft:cherry_grove": "2025-07-26 17:57:49 +0000",
       "minecraft:beach": "2025-07-26 02:11:22 +0000",
+      "minecraft:sparse_jungle": "2025-07-26 18:39:11 +0000",
       "minecraft:river": "2025-07-26 02:03:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-26 18:42:18 +0000",
       "minecraft:snowy_plains": "2025-07-26 02:35:54 +0000",
       "minecraft:snowy_taiga": "2025-07-26 02:35:53 +0000",
       "minecraft:forest": "2025-07-26 02:32:07 +0000",
@@ -1300,6 +1302,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-26 18:34:03 +0000",
       "cooked_beef": "2025-07-26 17:51:25 +0000",
       "porkchop": "2025-07-26 16:29:16 +0000",
       "mutton": "2025-07-26 17:06:10 +0000",
@@ -3971,6 +3974,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-26 18:37:22 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_warhammer": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -4007,9 +4016,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-26 18:37:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-26 18:40:19 +0000"
     },
     "done": true
   },
@@ -4385,6 +4406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-26 18:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
@@ -4466,6 +4493,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-26 18:40:19 +0000"
     },
     "done": true
   },
@@ -4664,6 +4697,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-26 18:05:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-07-26 18:40:19 +0000"
     },
     "done": true
   },
