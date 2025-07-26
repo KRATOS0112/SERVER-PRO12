@@ -396,6 +396,7 @@
       "minecraft:snowy_plains": "2025-07-26 02:35:54 +0000",
       "minecraft:snowy_taiga": "2025-07-26 02:35:53 +0000",
       "minecraft:forest": "2025-07-26 02:32:07 +0000",
+      "minecraft:frozen_ocean": "2025-07-26 17:37:24 +0000",
       "minecraft:snowy_beach": "2025-07-26 17:06:14 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-26 02:48:12 +0000",
       "minecraft:plains": "2025-07-25 18:44:33 +0000"
@@ -1298,6 +1299,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-07-26 17:51:25 +0000",
       "porkchop": "2025-07-26 16:29:16 +0000",
       "mutton": "2025-07-26 17:06:10 +0000",
       "bread": "2025-07-26 01:35:55 +0000",
@@ -3796,9 +3798,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_halberd": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -3838,9 +3852,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/decorations/river_sign": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -3853,6 +3879,12 @@
   "spartanfire:recipes/dragon_bone_longsword": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -3871,6 +3903,12 @@
   "spartanfire:recipes/iced_dragon_bone_longbow": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -3922,15 +3960,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-26 17:40:12 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_rapier": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_battleaxe": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_binder_composite": {
+    "criteria": {
+      "has_ingredient_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -4006,6 +4062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "eidolon:recipes/building_blocks/bone_pile_stair": {
     "criteria": {
       "has_journal": "2025-07-26 17:00:39 +0000"
@@ -4018,9 +4080,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_rapier": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -4069,6 +4143,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -4138,6 +4218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_greatsword": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
@@ -4150,6 +4236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_pike": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
@@ -4159,6 +4251,24 @@
   "spartanfire:recipes/dragon_bone_battle_hammer": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
@@ -4261,6 +4371,12 @@
   "eidolon:recipes/building_blocks/bone_pile_stonecutter_1": {
     "criteria": {
       "has_journal": "2025-07-26 17:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },

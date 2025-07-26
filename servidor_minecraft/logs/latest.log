@@ -1359,3 +1359,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 17:39:32.905] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [26Jul2025 17:39:32.917] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [26Jul2025 17:39:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Dire Hound Leader
+[26Jul2025 17:50:04.355] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Jul2025 17:50:04.357] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[26Jul2025 17:50:04.357] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 combat_style_manual
+[26Jul2025 17:50:04.357] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Jul2025 17:50:04.357] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2

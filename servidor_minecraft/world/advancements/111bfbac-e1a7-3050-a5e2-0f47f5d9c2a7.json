@@ -396,6 +396,7 @@
       "minecraft:snowy_plains": "2025-07-26 02:35:06 +0000",
       "minecraft:snowy_taiga": "2025-07-26 02:35:18 +0000",
       "minecraft:forest": "2025-07-26 01:47:18 +0000",
+      "minecraft:frozen_ocean": "2025-07-26 17:37:23 +0000",
       "minecraft:snowy_beach": "2025-07-26 17:06:05 +0000",
       "minecraft:plains": "2025-07-26 01:27:15 +0000"
     },
@@ -3125,6 +3126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3134,6 +3141,12 @@
   "spartanshields:recipes/silver_tower_shield": {
     "criteria": {
       "has_silver_ingot": "2025-07-26 17:34:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3155,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_spear": {
     "criteria": {
       "has_silver_ingot": "2025-07-26 17:34:00 +0000"
@@ -3164,6 +3183,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-26 17:23:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/bedroll": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3185,6 +3216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3194,6 +3231,12 @@
   "spartanweaponry:recipes/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3317,6 +3360,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-07-26 16:16:38 +0000"
@@ -3359,9 +3408,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3380,6 +3441,12 @@
   "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
     "criteria": {
       "has_pickerelweed": "2025-07-26 17:30:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3434,6 +3501,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3527,6 +3600,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-07-26 17:22:59 +0000"
@@ -3593,6 +3672,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-26 17:40:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3629,6 +3720,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
@@ -3644,6 +3741,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-26 16:19:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-07-26 17:45:27 +0000"
     },
     "done": true
   },
@@ -3803,6 +3906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-26 17:47:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
@@ -3824,6 +3933,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -3893,6 +4008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-26 17:47:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
@@ -3914,6 +4035,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
     },
     "done": true
   },
@@ -4055,6 +4182,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-07-26 17:47:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-07-26 16:27:25 +0000"
@@ -4094,6 +4227,12 @@
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-07-26 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-26 17:47:39 +0000"
     },
     "done": true
   },
