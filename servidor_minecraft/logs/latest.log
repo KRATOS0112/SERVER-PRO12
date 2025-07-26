@@ -1391,3 +1391,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 18:11:29.308] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [26Jul2025 18:11:29.332] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [26Jul2025 18:11:30.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5681ms or 113 ticks behind
+[26Jul2025 18:23:10.863] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 18:23:10.866] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 18:23:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by shagyy
+[26Jul2025 18:29:02.505] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 18:29:02.520] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved

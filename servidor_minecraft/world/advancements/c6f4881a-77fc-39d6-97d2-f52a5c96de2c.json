@@ -3785,6 +3785,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_flanged_mace": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -3848,6 +3854,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -3971,6 +3983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-26 18:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
@@ -3986,6 +4004,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4019,15 +4043,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-26 18:26:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2025-07-26 18:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4067,6 +4127,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-07-26 17:22:48 +0000"
@@ -4097,6 +4163,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-07-26 16:24:51 +0000"
@@ -4118,6 +4190,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-07-26 18:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4148,6 +4226,12 @@
   "spartanfire:recipes/dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4223,9 +4307,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-07-26 16:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4253,9 +4349,21 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-07-26 18:22:45 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_boomerang": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4289,6 +4397,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-07-26 17:33:59 +0000"
@@ -4307,6 +4421,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-07-26 17:22:48 +0000"
@@ -4322,6 +4442,18 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4379,9 +4511,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_dagger": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4418,6 +4568,12 @@
   "spartanfire:recipes/iced_dragon_bone_greatsword": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4463,6 +4619,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
@@ -4484,6 +4646,12 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
@@ -4535,6 +4703,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_javelin": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -4571,6 +4745,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_quarterstaff": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
@@ -4586,6 +4766,12 @@
   "spartanfire:recipes/iced_dragon_bone_warhammer": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-07-26 18:23:20 +0000"
     },
     "done": true
   },
