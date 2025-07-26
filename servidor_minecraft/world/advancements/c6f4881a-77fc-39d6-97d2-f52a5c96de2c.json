@@ -3800,5 +3800,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-26 16:43:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
