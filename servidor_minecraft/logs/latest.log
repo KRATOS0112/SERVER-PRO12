@@ -1202,3 +1202,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 16:42:20.765] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [26Jul2025 16:42:20.769] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [26Jul2025 16:42:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:52:28.415] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:52:28.416] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:52:35.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was doomed to fall by Skull Deserter
+[26Jul2025 16:53:58.159] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:53:58.162] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:54:02.918] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:54:02.922] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:54:04.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:54:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 tried to swim in lava to escape Skull Deserter
+[26Jul2025 16:54:05.416] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:57:04.008] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:57:04.010] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:57:07.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy tried to swim in lava to escape Skull Deserter
+[26Jul2025 16:57:07.018] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:58:07.550] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:58:07.577] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:58:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
