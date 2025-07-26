@@ -3737,9 +3737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:16:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-07-26 18:21:08 +0000"
     },
     "done": true
   },
@@ -3779,6 +3791,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-07-26 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-26 18:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-07-26 17:30:36 +0000"
@@ -3803,6 +3833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-26 18:16:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-07-26 17:33:53 +0000"
@@ -3815,9 +3851,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-26 18:21:45 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_halberd": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
     },
     "done": true
   },
@@ -3845,9 +3893,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-07-26 18:14:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_spear": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-26 18:16:25 +0000"
     },
     "done": true
   },
@@ -3866,6 +3926,12 @@
   "spartanfire:recipes/dragon_bone_throwing_knife": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-26 18:14:38 +0000"
     },
     "done": true
   },
@@ -3917,6 +3983,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_longbow": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -3935,9 +4013,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-26 18:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-26 18:21:45 +0000"
     },
     "done": true
   },
@@ -3956,6 +4046,12 @@
   "spartanfire:recipes/iced_dragon_bone_katana": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:16:22 +0000"
     },
     "done": true
   },
@@ -4037,6 +4133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/conduit_binder_composite": {
     "criteria": {
       "has_ingredient_sand": "2025-07-26 17:41:36 +0000"
@@ -4052,6 +4154,12 @@
   "upgrade_aquatic:recipes/redstone/river_button": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-26 18:16:25 +0000"
     },
     "done": true
   },
@@ -4109,9 +4217,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-26 18:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-07-26 16:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-26 18:21:45 +0000"
     },
     "done": true
   },
@@ -4190,6 +4316,12 @@
   "spartanfire:recipes/iced_dragon_bone_battleaxe": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
     },
     "done": true
   },
@@ -4295,6 +4427,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-26 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-26 18:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 17:41:36 +0000"
@@ -4337,6 +4487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-26 18:05:34 +0000"
@@ -4373,6 +4529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-26 18:20:54 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_javelin": {
     "criteria": {
       "has_dragon_bone": "2025-07-26 17:33:59 +0000"
@@ -4385,9 +4547,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-26 18:21:45 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_parrying_dagger": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-26 18:16:25 +0000"
     },
     "done": true
   },
