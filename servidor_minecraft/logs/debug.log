@@ -13396,3 +13396,121 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 16:31:11.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [26Jul2025 16:31:12.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [26Jul2025 16:31:14.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [A Fast Comeback]
+[26Jul2025 16:31:28.516] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:31:28.525] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:31:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:31:38.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:870, y:84, z:-835, dim:minecraft:overworld]
+[26Jul2025 16:31:39.606] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[26Jul2025 16:32:04.721] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@24f1dd83 for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
+[26Jul2025 16:32:04.748] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@4b8da676] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
+[26Jul2025 16:32:10.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 16:32:10.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 16:34:51.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:34:52.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:34:53.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:34:54.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:00.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:02.965] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:04.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:06.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:22.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:26.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:27.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:35:28.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:12.156] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:36:12.173] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:36:18.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull
+[26Jul2025 16:36:18.372] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:879, y:81, z:-858, dim:minecraft:overworld]
+[26Jul2025 16:36:18.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:19.652] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[26Jul2025 16:36:20.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:21.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:22.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:23.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:24.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:25.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:27.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:36:29.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:10.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 16:37:10.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 16:37:16.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:23.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:23.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:26.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:27.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:30.001] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:37:30.026] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:37:30.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Prisoner Skull
+[26Jul2025 16:37:38.429] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:874, y:80, z:-828, dim:minecraft:overworld]
+[26Jul2025 16:37:39.814] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[26Jul2025 16:37:41.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:41.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:41.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:41.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:37:45.426] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:37:45.433] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:37:51.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy hit the ground too hard
+[26Jul2025 16:37:51.626] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:874, y:84, z:-832, dim:minecraft:overworld]
+[26Jul2025 16:37:53.075] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[26Jul2025 16:38:06.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:06.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:07.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:07.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:07.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:08.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:08.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:08.904] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:38:08.925] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:38:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:38:19.825] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:871, y:88, z:-829, dim:minecraft:overworld]
+[26Jul2025 16:38:21.252] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[26Jul2025 16:38:25.266] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:38:25.276] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:38:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:38:31.330] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:877, y:84, z:-837, dim:minecraft:overworld]
+[26Jul2025 16:38:32.796] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[26Jul2025 16:38:37.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:38.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:40.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:40.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:41.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:42.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:44.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:45.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:47.912] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:38:47.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:38:47.945] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:38:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:38:58.220] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:869, y:84, z:-823, dim:minecraft:overworld]
+[26Jul2025 16:38:59.585] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[26Jul2025 16:39:28.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:39:29.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:13.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:14.219] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:40:14.220] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:40:17.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:17.472] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:40:17.478] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:40:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy burned to death
+[26Jul2025 16:40:20.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:872, y:89, z:-837, dim:minecraft:overworld]
+[26Jul2025 16:40:22.192] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[26Jul2025 16:40:30.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:40:30.030] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:875, y:82, z:-823, dim:minecraft:overworld]
+[26Jul2025 16:40:31.458] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[26Jul2025 16:40:56.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:57.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:57.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:57.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:57.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:58.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:58.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:58.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:59.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:59.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:59.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:40:59.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:41:00.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:41:00.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:41:00.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Jul2025 16:41:00.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

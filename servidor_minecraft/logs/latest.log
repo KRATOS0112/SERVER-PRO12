@@ -1169,3 +1169,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 16:30:57.219] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Hot Stuff]
 [26Jul2025 16:31:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
 [26Jul2025 16:31:14.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [A Fast Comeback]
+[26Jul2025 16:31:28.516] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:31:28.525] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:31:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:36:12.156] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:36:12.173] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:36:18.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull
+[26Jul2025 16:37:30.001] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:37:30.026] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:37:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Prisoner Skull
+[26Jul2025 16:37:45.426] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:37:45.433] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:37:51.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy hit the ground too hard
+[26Jul2025 16:38:08.904] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:38:08.925] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:38:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:38:25.266] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:38:25.276] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:38:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:38:47.912] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:38:47.945] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:38:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:40:14.219] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:40:14.220] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:40:17.472] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:40:17.478] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:40:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy burned to death
+[26Jul2025 16:40:30.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter

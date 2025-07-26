@@ -1297,7 +1297,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-07-26 01:35:55 +0000"
+      "porkchop": "2025-07-26 16:29:16 +0000",
+      "bread": "2025-07-26 01:35:55 +0000",
+      "golden_apple": "2025-07-26 16:35:01 +0000"
     },
     "done": false
   },
@@ -3762,6 +3764,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-26 16:28:12 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/redstone/river_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
@@ -3783,6 +3791,12 @@
   "upgrade_aquatic:recipes/redstone/river_door": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-26 16:31:14 +0000"
     },
     "done": true
   },
