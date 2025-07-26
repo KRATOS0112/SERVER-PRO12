@@ -1219,3 +1219,75 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 16:58:07.550] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
 [26Jul2025 16:58:07.577] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
 [26Jul2025 16:58:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 17:03:29.458] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:03:29.468] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:03:36.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull
+[26Jul2025 17:05:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Double Trouble]
+[26Jul2025 17:06:42.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! -9.931355895117463,-1.252203340253729,1.3669119457140368
+[26Jul2025 17:07:06.504] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 17:07:28.742] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:28.753] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:32.969] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:32.970] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:33.144] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:33.146] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:33.147] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:36.410] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[26Jul2025 17:07:43.643] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 17:07:43.654] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 17:09:07.203] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:09:07.217] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:09:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:09:25.078] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:09:25.079] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:09:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was doomed to fall by Ice Dragon
+[26Jul2025 17:09:57.606] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:09:57.631] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:10:03.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:10:36.952] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:10:36.977] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:10:43.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:10:54.206] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/12598, l='ServerLevel[world]', x=441.24, y=63.00, z=-1006.80] died, message: 'Farmer was frozen by Ice Dragon'
+[26Jul2025 17:12:02.208] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:12:02.236] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:12:06.448] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:12:06.469] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:12:09.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ice Dragon
+[26Jul2025 17:12:13.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was turned to ice by a dragon
+[26Jul2025 17:13:06.126] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:13:06.129] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:13:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 suffocated in a wall
+[26Jul2025 17:13:11.619] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:13:52.200] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:13:52.229] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:13:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was turned to ice by a dragon
+[26Jul2025 17:15:44.908] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:15:44.933] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:16:00.059] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:16:00.088] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:16:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 suffocated in a wall
+[26Jul2025 17:16:06.072] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:16:13.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy drowned
+[26Jul2025 17:16:13.018] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:17:46.452] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:17:46.466] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:17:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:17:56.121] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:17:56.134] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:18:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ice Dragon
+[26Jul2025 17:18:11.397] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:18:11.411] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:18:17.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:18:27.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[26Jul2025 17:18:27.899] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:18:27.915] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:18:36.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ice Dragon
+[26Jul2025 17:19:54.264] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 17:19:54.267] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 17:20:01.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was turned to ice by Ice Dragon
+[26Jul2025 17:20:02.847] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:20:02.865] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:20:09.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon
+[26Jul2025 17:21:01.703] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 17:21:01.727] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 17:21:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was frozen by a dragon

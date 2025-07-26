@@ -390,11 +390,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-26 02:35:21 +0000",
+      "minecraft:frozen_river": "2025-07-26 17:06:24 +0000",
       "minecraft:beach": "2025-07-26 01:41:33 +0000",
       "minecraft:river": "2025-07-26 01:46:52 +0000",
       "minecraft:snowy_plains": "2025-07-26 02:35:06 +0000",
       "minecraft:snowy_taiga": "2025-07-26 02:35:18 +0000",
       "minecraft:forest": "2025-07-26 01:47:18 +0000",
+      "minecraft:snowy_beach": "2025-07-26 17:06:05 +0000",
       "minecraft:plains": "2025-07-26 01:27:15 +0000"
     },
     "done": false
@@ -3245,6 +3247,12 @@
   "enderio:recipes/misc/basic_fluid_filter": {
     "criteria": {
       "has_ingredient": "2025-07-26 16:27:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-26 17:05:01 +0000"
     },
     "done": true
   },
