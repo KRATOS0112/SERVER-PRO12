@@ -3720,6 +3720,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_man_of_steel": {
+    "criteria": {
+      "the_man_of_steel_0": "2025-07-26 16:24:17 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/river_stairs": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
@@ -3741,6 +3747,12 @@
   "upgrade_aquatic:recipes/building_blocks/river_slab": {
     "criteria": {
       "has_planks": "2025-07-26 16:14:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-26 16:24:51 +0000"
     },
     "done": true
   },

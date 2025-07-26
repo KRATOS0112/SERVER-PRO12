@@ -1144,3 +1144,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 16:20:45.002] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [26Jul2025 16:20:45.033] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [26Jul2025 16:20:51.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Prisoner Skull
+[26Jul2025 16:21:26.307] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:21:26.327] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:21:32.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:21:48.558] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:21:48.571] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:21:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Skull Deserter
+[26Jul2025 16:22:24.711] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:22:24.727] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:22:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:24:17.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Man Of Steel]
+[26Jul2025 16:24:51.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Bone Crusher]
+[26Jul2025 16:27:25.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Acquire Hardware]
+[26Jul2025 16:28:03.922] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:28:03.933] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:28:10.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:28:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Most Useful Key]
+[26Jul2025 16:29:29.718] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 16:29:29.747] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:29:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy tried to swim in lava to escape Skull Deserter
+[26Jul2025 16:29:31.936] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 16:30:45.315] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 16:30:45.328] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 16:30:57.219] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Hot Stuff]
+[26Jul2025 16:31:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Skull Deserter
+[26Jul2025 16:31:14.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [A Fast Comeback]
