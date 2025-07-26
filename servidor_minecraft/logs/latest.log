@@ -1179,3 +1179,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:41:40.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [The Lighthouse]
 [26Jul2025 01:44:43.377] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
 [26Jul2025 01:44:43.397] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 01:44:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by The GraveWatcher
+[26Jul2025 01:45:14.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:33741] logged in with entity id 8477 at (35.30000001192093, 68.0, 78.30000001192093)
+[26Jul2025 01:45:14.411] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[26Jul2025 01:45:14.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[26Jul2025 01:45:14.519] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[26Jul2025 01:46:00.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Alex's Mobs]
+[26Jul2025 01:46:05.893] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Jul2025 01:46:06.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4514bb73[id=<null>,name=Maick,properties={},legacy=false] (/127.71.42.141:34421) lost connection: Disconnected
+[26Jul2025 01:46:21.982] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Mine? Mine? Mine?]
+[26Jul2025 01:46:39.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77a80774[id=<null>,name=Maick,properties={},legacy=false] (/127.71.42.141:37493) lost connection: Disconnected
+[26Jul2025 01:46:46.652] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57950a03[id=<null>,name=Maick,properties={},legacy=false] (/127.71.42.141:48945) lost connection: Disconnected
+[26Jul2025 01:47:19.678] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[26Jul2025 01:47:19.696] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 01:47:19.736] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 01:47:19.844] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49c44820[id=<null>,name=Maick,properties={},legacy=false] (/127.71.42.141:55983) lost connection: Disconnected
+[26Jul2025 01:49:21.880] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Mine? Mine? Mine?]
+[26Jul2025 01:51:16.431] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2198, l='ServerLevel[world]', x=-144.90, y=67.00, z=117.23] died, message: 'Leatherworker was slain by Zombie Villager'
+[26Jul2025 01:51:37.429] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/8737, l='ServerLevel[world]', x=-183.32, y=70.77, z=100.37] died, message: 'Leatherworker was slain by Zombie Villager'
+[26Jul2025 01:51:40.831] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8884, l='ServerLevel[world]', x=-193.40, y=73.92, z=102.63] died, message: 'Farmer was slain by Zombie Villager'
+[26Jul2025 01:51:44.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maick[/127.71.42.141:37655] logged in with entity id 10277 at (4.5, 77.0, -9.5)
+[26Jul2025 01:51:44.644] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Maick
+[26Jul2025 01:51:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maick joined the game
+[26Jul2025 01:51:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maick has made the advancement [Blade MoveSets]
+[26Jul2025 01:51:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maick has made the advancement [Dungeons And Combat]
+[26Jul2025 01:51:44.745] [Server thread/INFO] [Jade/]: Syncing config to Maick (bf6b3170-90ab-3796-bf10-f5e5de1973f3)
+[26Jul2025 01:51:44.812] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Maick has made the advancement [Ice and Fire]
+[26Jul2025 01:51:44.812] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Maick has made the advancement [T.O Magic 'n Extras]
+[26Jul2025 01:52:56.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maick has made the advancement [Tiny Proud Soul]
+[26Jul2025 01:52:56.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maick has made the advancement [Slash Blade]
+[26Jul2025 01:53:16.102] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player Maick was canceled by another mod
+[26Jul2025 01:53:16.105] [Server thread/INFO] [tombstone/]: The player Maick has successfully been saved
+[26Jul2025 01:53:21.376] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 01:53:21.402] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 01:53:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by The GraveWatcher

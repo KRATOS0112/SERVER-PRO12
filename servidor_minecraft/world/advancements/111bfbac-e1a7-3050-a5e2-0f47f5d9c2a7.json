@@ -390,6 +390,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-07-26 01:41:33 +0000",
+      "minecraft:river": "2025-07-26 01:46:52 +0000",
+      "minecraft:forest": "2025-07-26 01:47:18 +0000",
       "minecraft:plains": "2025-07-26 01:27:15 +0000"
     },
     "done": false
@@ -409,6 +411,12 @@
   "minecraft:recipes/transportation/trochodendroides_boat": {
     "criteria": {
       "in_water": "2025-07-26 01:40:01 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2025-07-26 01:46:19 +0000"
     },
     "done": true
   },
@@ -508,6 +516,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2025-07-26 01:46:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2025-07-26 01:38:13 +0000"
@@ -574,6 +588,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-07-26 01:46:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-07-26 01:38:13 +0000"
@@ -613,6 +633,12 @@
   "minecraft:recipes/transportation/liriodendrites_boat": {
     "criteria": {
       "in_water": "2025-07-26 01:40:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-26 01:46:00 +0000"
     },
     "done": true
   },
@@ -661,6 +687,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-26 01:40:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-07-26 01:46:19 +0000"
     },
     "done": true
   },
@@ -799,7 +831,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2025-07-26 01:39:15 +0000"
+      "minecraft:pillager": "2025-07-26 01:39:15 +0000",
+      "minecraft:witch": "2025-07-26 01:53:18 +0000"
     },
     "done": false
   },
@@ -911,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-26 01:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/taxus_boat": {
     "criteria": {
       "in_water": "2025-07-26 01:40:01 +0000"
@@ -926,6 +965,12 @@
   "minecraft:recipes/transportation/zamites_boat": {
     "criteria": {
       "in_water": "2025-07-26 01:40:01 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2025-07-26 01:46:19 +0000"
     },
     "done": true
   },
@@ -956,6 +1001,12 @@
   "spartanweaponry:recipes/golden_greatsword": {
     "criteria": {
       "has_gold_ingot": "2025-07-26 01:38:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-26 01:46:21 +0000"
     },
     "done": true
   },
