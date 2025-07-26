@@ -391,6 +391,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-26 02:35:24 +0000",
       "minecraft:frozen_river": "2025-07-26 02:47:24 +0000",
+      "minecraft:cherry_grove": "2025-07-26 17:57:49 +0000",
       "minecraft:beach": "2025-07-26 02:11:22 +0000",
       "minecraft:river": "2025-07-26 02:03:24 +0000",
       "minecraft:snowy_plains": "2025-07-26 02:35:54 +0000",
@@ -3969,6 +3970,12 @@
   "spartanfire:recipes/iced_dragon_bone_rapier": {
     "criteria": {
       "has_ice_dragon_blood": "2025-07-26 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-26 18:01:03 +0000"
     },
     "done": true
   },
