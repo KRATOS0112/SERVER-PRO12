@@ -1145,3 +1145,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Jul2025 01:32:17.931] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [26Jul2025 01:32:26.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Zombie Villager
 [26Jul2025 01:32:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Your First Grave]
+[26Jul2025 01:33:09.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Disconnected
+[26Jul2025 01:33:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
+[26Jul2025 01:33:23.657] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[26Jul2025 01:33:23.687] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[26Jul2025 01:33:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Zombie Villager
+[26Jul2025 01:36:51.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shagyy[/127.113.122.147:35947] logged in with entity id 5466 at (32.58937175729479, 78.0, 48.732717735235845)
+[26Jul2025 01:36:51.857] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
+[26Jul2025 01:36:51.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
+[26Jul2025 01:36:51.985] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[26Jul2025 01:36:58.136] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2074, l='ServerLevel[world]', x=40.71, y=66.00, z=112.30] died, message: 'Unemployed was slain by Palehand'
+[26Jul2025 01:37:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Stone Age]
+[26Jul2025 01:37:39.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[26Jul2025 01:37:39.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[26Jul2025 01:38:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [All Along The Watchtower]
+[26Jul2025 01:38:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [An Assassin's Need]
+[26Jul2025 01:38:21.388] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 01:38:21.401] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 01:38:30.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Palehand
+[26Jul2025 01:38:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Your First Grave]
+[26Jul2025 01:38:53.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has reached the goal [Here They Come]
+[26Jul2025 01:39:09.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Tiny Proud Soul]
+[26Jul2025 01:39:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Slash Blade]
+[26Jul2025 01:39:15.136] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 01:39:15.149] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 01:39:15.633] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Knowledge of Death]
+[26Jul2025 01:39:15.634] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Ambush]
+[26Jul2025 01:39:15.635] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Monster Hunter]
+[26Jul2025 01:39:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Palehand
+[26Jul2025 01:40:35.886] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 01:40:35.908] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[26Jul2025 01:40:50.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Zombie Villager
+[26Jul2025 01:41:40.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [The Lighthouse]
+[26Jul2025 01:44:43.377] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[26Jul2025 01:44:43.397] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
