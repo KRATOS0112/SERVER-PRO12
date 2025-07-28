@@ -402,9 +402,11 @@
       "minecraft:snowy_plains": "2025-07-26 02:35:54 +0000",
       "minecraft:stony_shore": "2025-07-28 01:52:09 +0000",
       "minecraft:snowy_taiga": "2025-07-26 02:35:53 +0000",
+      "minecraft:cold_ocean": "2025-07-28 02:24:58 +0000",
       "minecraft:forest": "2025-07-26 02:32:07 +0000",
       "minecraft:frozen_ocean": "2025-07-26 17:37:24 +0000",
       "minecraft:jungle": "2025-07-28 01:50:01 +0000",
+      "minecraft:ocean": "2025-07-28 02:21:56 +0000",
       "minecraft:snowy_beach": "2025-07-26 17:06:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-28 02:00:33 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-26 02:48:12 +0000",
@@ -5270,6 +5272,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-07-28 02:23:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-07-28 02:02:48 +0000"
@@ -5372,6 +5380,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 02:23:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2025-07-28 02:02:48 +0000"
@@ -5381,6 +5395,12 @@
   "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
     "criteria": {
       "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 02:23:18 +0000"
     },
     "done": true
   },
@@ -5546,6 +5566,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 02:23:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-07-28 01:50:54 +0000"
@@ -5567,6 +5593,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-07-28 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 02:23:18 +0000"
     },
     "done": true
   },
