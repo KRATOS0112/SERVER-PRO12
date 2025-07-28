@@ -13748,3 +13748,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 16:40:59.473] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [28Jul2025 16:40:59.491] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [28Jul2025 16:41:03.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:41:36.898] [dimthread_server_overworld/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[28Jul2025 16:41:37.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 16:41:37.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 16:46:37.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 16:46:37.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 16:48:14.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[28Jul2025 16:48:16.661] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[28Jul2025 16:48:16.677] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[28Jul2025 16:48:16.687] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[28Jul2025 16:48:16.709] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[28Jul2025 16:48:16.828] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[28Jul2025 16:49:16.269] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:49:16.284] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:49:59.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:49:59.739] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:49:59.745] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:50:28.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:50:29.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:50:30.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:50:32.280] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:50:32.301] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:50:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:50:38.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:498, y:61, z:-5693, dim:minecraft:overworld]
+[28Jul2025 16:50:39.958] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[28Jul2025 16:50:48.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:50:48.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:50:49.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:50:50.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jul2025 16:51:00.471] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:51:00.487] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:51:07.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:51:07.629] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:502, y:61, z:-5701, dim:minecraft:overworld]
+[28Jul2025 16:51:08.937] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[28Jul2025 16:51:28.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

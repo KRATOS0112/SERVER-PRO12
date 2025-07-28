@@ -1146,3 +1146,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 16:40:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Husk
 [28Jul2025 16:40:59.473] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [28Jul2025 16:40:59.491] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:49:16.269] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:49:16.284] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:49:59.739] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:49:59.745] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:50:32.280] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:50:32.301] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:50:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:51:00.471] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:51:00.487] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:51:07.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut

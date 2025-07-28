@@ -1314,6 +1314,7 @@
       "cooked_beef": "2025-07-26 17:51:25 +0000",
       "porkchop": "2025-07-26 16:29:16 +0000",
       "mutton": "2025-07-26 17:06:10 +0000",
+      "sweet_berries": "2025-07-28 16:45:35 +0000",
       "apple": "2025-07-26 18:04:28 +0000",
       "cooked_cod": "2025-07-26 18:06:22 +0000",
       "bread": "2025-07-26 01:35:55 +0000",
@@ -5621,9 +5622,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-28 16:40:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-07-28 16:34:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-28 16:45:25 +0000"
     },
     "done": true
   },
