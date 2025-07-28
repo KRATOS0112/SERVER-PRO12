@@ -1203,3 +1203,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 02:34:57.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
 [28Jul2025 02:34:57.772] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
 [28Jul2025 02:36:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Best Friends Forever]
+[28Jul2025 02:38:39.900] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [The Parrots and the Bats]
+[28Jul2025 02:41:41.608] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[28Jul2025 02:41:41.610] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[28Jul2025 02:41:41.678] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[28Jul2025 02:41:41.681] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[28Jul2025 02:41:41.681] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[28Jul2025 02:41:41.681] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[28Jul2025 02:41:41.682] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[28Jul2025 02:42:18.224] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[28Jul2025 02:42:18.245] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[28Jul2025 02:42:18.246] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[28Jul2025 02:44:05.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[28Jul2025 02:44:33.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Disconnected
+[28Jul2025 02:44:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game

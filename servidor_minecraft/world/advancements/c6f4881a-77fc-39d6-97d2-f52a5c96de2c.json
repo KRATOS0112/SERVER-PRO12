@@ -5200,6 +5200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 02:34:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-07-28 02:02:46 +0000"
@@ -5359,6 +5365,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 02:34:39 +0000"
     },
     "done": true
   },

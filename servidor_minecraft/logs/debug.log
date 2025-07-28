@@ -15633,3 +15633,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 02:34:57.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
 [28Jul2025 02:34:57.772] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
 [28Jul2025 02:36:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Best Friends Forever]
+[28Jul2025 02:36:38.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 02:36:38.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 02:38:39.900] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [The Parrots and the Bats]
+[28Jul2025 02:41:25.585] [Worker-Main-13/DEBUG] [ModernFix/]: Structure aquamirae:stone is being run through DFU (hash 0ebb221e12ddd320d4659cf7eea5dcf0c5be0e806a83170385a8f6a394ca598e), this will cause launch time delays
+[28Jul2025 02:41:30.312] [Worker-Main-13/DEBUG] [ModernFix/]: Structure hopo:portal12 is being run through DFU (hash e57352fb5dccf5b323f502386aad627f50561aac244181f78e4c423508c38487), this will cause launch time delays
+[28Jul2025 02:41:30.439] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[28Jul2025 02:41:38.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 02:41:38.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 02:41:41.608] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[28Jul2025 02:41:41.610] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[28Jul2025 02:41:41.678] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[28Jul2025 02:41:41.681] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[28Jul2025 02:41:41.681] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[28Jul2025 02:41:41.681] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[28Jul2025 02:41:41.682] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[28Jul2025 02:42:18.224] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[28Jul2025 02:42:18.245] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[28Jul2025 02:42:18.246] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[28Jul2025 02:43:55.702] [Worker-Main-11/DEBUG] [ModernFix/]: Structure aquamirae:camp is being run through DFU (hash e148227db0ad27b3b5d860fcc50ba082ba1fe9956f4ed15ce8502591bc737890), this will cause launch time delays
+[28Jul2025 02:43:55.801] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[28Jul2025 02:43:55.825] [Worker-Main-13/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[28Jul2025 02:43:55.978] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[28Jul2025 02:43:55.987] [Worker-Main-13/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[28Jul2025 02:44:05.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[28Jul2025 02:44:33.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Disconnected
+[28Jul2025 02:44:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
