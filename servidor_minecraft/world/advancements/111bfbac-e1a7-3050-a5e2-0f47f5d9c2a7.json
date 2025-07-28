@@ -1101,6 +1101,7 @@
       "pumpkin_pie": "2025-07-28 18:46:46 +0000",
       "bread": "2025-07-26 01:40:34 +0000",
       "rotten_flesh": "2025-07-26 01:56:57 +0000",
+      "beetroot": "2025-07-28 19:07:21 +0000",
       "carrot": "2025-07-28 16:43:04 +0000"
     },
     "done": false
@@ -4993,6 +4994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 19:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-28 16:42:04 +0000"
@@ -5131,6 +5138,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-07-28 19:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-28 17:03:31 +0000"
@@ -5203,6 +5216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-28 19:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-28 17:54:06 +0000"
@@ -5212,6 +5231,12 @@
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-07-28 18:31:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-28 19:04:27 +0000"
     },
     "done": true
   },
@@ -5248,6 +5273,12 @@
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-28 17:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-28 19:08:50 +0000"
     },
     "done": true
   },
@@ -5428,6 +5459,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-28 17:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 19:02:16 +0000"
     },
     "done": true
   },
@@ -5701,6 +5738,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-07-28 19:08:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-07-28 17:26:06 +0000"
@@ -5716,6 +5759,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-28 16:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-28 19:02:16 +0000"
     },
     "done": true
   },
