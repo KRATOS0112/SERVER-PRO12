@@ -1314,6 +1314,7 @@
       "cooked_beef": "2025-07-26 17:51:25 +0000",
       "porkchop": "2025-07-26 16:29:16 +0000",
       "mutton": "2025-07-26 17:06:10 +0000",
+      "cooked_mutton": "2025-07-28 17:18:08 +0000",
       "sweet_berries": "2025-07-28 16:45:35 +0000",
       "apple": "2025-07-26 18:04:28 +0000",
       "cooked_cod": "2025-07-26 18:06:22 +0000",
@@ -5630,6 +5631,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-28 17:18:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-07-28 16:34:49 +0000"
@@ -5654,6 +5661,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-07-28 17:18:01 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-07-28 17:08:19 +0000"
@@ -5675,6 +5688,12 @@
   "spartanweaponry:recipes/copper_bolt": {
     "criteria": {
       "has_feather": "2025-07-28 17:08:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-07-28 17:18:01 +0000"
     },
     "done": true
   },
