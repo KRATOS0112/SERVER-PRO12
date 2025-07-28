@@ -1098,6 +1098,7 @@
       "cooked_mutton": "2025-07-26 17:36:09 +0000",
       "apple": "2025-07-26 01:40:24 +0000",
       "cooked_cod": "2025-07-26 18:06:30 +0000",
+      "pumpkin_pie": "2025-07-28 18:46:46 +0000",
       "bread": "2025-07-26 01:40:34 +0000",
       "rotten_flesh": "2025-07-26 01:56:57 +0000",
       "carrot": "2025-07-28 16:43:04 +0000"
@@ -5412,6 +5413,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-07-28 18:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-28 17:12:09 +0000"
@@ -5619,6 +5626,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-28 17:54:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-07-28 18:41:53 +0000"
     },
     "done": true
   },
