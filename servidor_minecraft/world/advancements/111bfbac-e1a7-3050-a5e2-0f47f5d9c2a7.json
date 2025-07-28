@@ -782,6 +782,7 @@
       "minecraft:spider": "2025-07-26 02:40:17 +0000",
       "minecraft:creeper": "2025-07-26 02:53:07 +0000",
       "minecraft:witch": "2025-07-26 01:53:18 +0000",
+      "minecraft:husk": "2025-07-28 16:34:00 +0000",
       "minecraft:cave_spider": "2025-07-28 02:16:53 +0000",
       "minecraft:zombie": "2025-07-26 18:43:41 +0000"
     },
@@ -4814,6 +4815,54 @@
       "minecraft:wolf": "2025-07-28 02:38:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 16:29:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-28 16:31:13 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-28 16:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-28 16:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 16:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-28 16:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-28 16:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-28 16:31:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

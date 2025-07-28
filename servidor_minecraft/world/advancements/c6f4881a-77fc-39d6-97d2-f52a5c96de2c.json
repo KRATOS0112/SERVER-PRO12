@@ -1698,6 +1698,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-26 02:20:27 +0000",
       "minecraft:magma_cube": "2025-07-26 18:08:17 +0000",
+      "minecraft:husk": "2025-07-28 16:27:30 +0000",
       "minecraft:zombie": "2025-07-26 02:17:45 +0000"
     },
     "done": false
@@ -5617,6 +5618,18 @@
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-07-28 02:44:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-07-28 16:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-28 16:32:01 +0000"
     },
     "done": true
   },

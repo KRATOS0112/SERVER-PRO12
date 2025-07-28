@@ -1130,3 +1130,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 16:23:40.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
 [28Jul2025 16:23:41.107] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
 [28Jul2025 16:26:37.659] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@20192d75
+[28Jul2025 16:31:13.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Ice Bucket Challenge]
+[28Jul2025 16:36:32.575] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:36:32.596] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:37:24.074] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[28Jul2025 16:37:24.079] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[28Jul2025 16:39:33.517] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:39:33.534] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:40:40.563] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[28Jul2025 16:40:40.579] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[28Jul2025 16:40:41.563] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:40:41.579] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:40:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Strong or Careful]
+[28Jul2025 16:40:49.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Husk
+[28Jul2025 16:40:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Husk
+[28Jul2025 16:40:59.473] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:40:59.491] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
