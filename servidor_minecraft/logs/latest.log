@@ -1223,3 +1223,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 17:22:31.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hot Stuff]
 [28Jul2025 17:56:48.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [28Jul2025 18:30:30.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[28Jul2025 18:34:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has reached the goal [Exorcism]
+[28Jul2025 18:37:11.722] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[28Jul2025 18:37:11.728] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[28Jul2025 18:37:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Ambush]
+[28Jul2025 18:37:18.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Zombie
+[28Jul2025 18:41:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [What a Deal!]

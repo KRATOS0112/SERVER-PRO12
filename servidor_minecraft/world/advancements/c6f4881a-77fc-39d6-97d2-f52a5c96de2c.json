@@ -1702,6 +1702,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-26 02:20:27 +0000",
       "minecraft:magma_cube": "2025-07-26 18:08:17 +0000",
+      "minecraft:spider": "2025-07-28 18:38:58 +0000",
       "minecraft:husk": "2025-07-28 16:27:30 +0000",
       "minecraft:zombie": "2025-07-26 02:17:45 +0000",
       "minecraft:zombie_villager": "2025-07-28 17:45:40 +0000"
@@ -5734,6 +5735,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-28 18:37:16 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
       "has_feather": "2025-07-28 17:08:19 +0000"
@@ -5773,6 +5780,12 @@
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-07-28 17:18:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-07-28 18:37:52 +0000"
     },
     "done": true
   },
