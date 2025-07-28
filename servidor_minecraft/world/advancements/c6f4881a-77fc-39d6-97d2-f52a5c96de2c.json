@@ -1319,6 +1319,8 @@
       "cooked_cod": "2025-07-26 18:06:22 +0000",
       "bread": "2025-07-26 01:35:55 +0000",
       "golden_apple": "2025-07-26 16:35:01 +0000",
+      "rotten_flesh": "2025-07-28 16:50:18 +0000",
+      "melon_slice": "2025-07-28 16:59:07 +0000",
       "cooked_salmon": "2025-07-26 18:05:59 +0000"
     },
     "done": false
@@ -5643,6 +5645,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-07-28 16:32:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-28 17:01:18 +0000"
     },
     "done": true
   },

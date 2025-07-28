@@ -1156,3 +1156,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 16:51:00.471] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [28Jul2025 16:51:00.487] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [28Jul2025 16:51:07.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:52:42.666] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[28Jul2025 16:52:42.682] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[28Jul2025 16:52:48.370] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:52:48.385] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:52:51.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ferrous Wroughtnaut
+[28Jul2025 16:52:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:53:57.863] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:53:57.877] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:54:04.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:55:07.965] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[28Jul2025 16:55:07.986] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[28Jul2025 16:55:11.463] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 16:55:11.478] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 16:55:17.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ferrous Wroughtnaut
+[28Jul2025 16:55:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ferrous Wroughtnaut
+[28Jul2025 16:57:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has completed the challenge [Just a Flesh Wound]
+[28Jul2025 16:59:32.594] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:32.596] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:32.596] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:41.900] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:41.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:41.906] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:42.196] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:42.197] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:42.206] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:44.450] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:52.704] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:54.210] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 16:59:54.216] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 17:00:00.269] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 17:00:00.271] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 17:00:00.271] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 17:00:00.284] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 17:00:23.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Jul2025 17:01:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Chompy]
+[28Jul2025 17:01:20.776] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 17:01:20.792] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
