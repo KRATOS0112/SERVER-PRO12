@@ -389,6 +389,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-07-28 02:01:47 +0000",
       "minecraft:taiga": "2025-07-26 02:35:24 +0000",
       "minecraft:frozen_river": "2025-07-26 02:47:24 +0000",
       "minecraft:cherry_grove": "2025-07-26 17:57:49 +0000",
@@ -5142,6 +5143,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5181,6 +5188,12 @@
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-28 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-28 02:02:46 +0000"
     },
     "done": true
   },
@@ -5244,6 +5257,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/cloudcap_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5280,6 +5299,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2025-07-28 01:52:33 +0000"
@@ -5313,6 +5338,12 @@
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-07-28 02:02:48 +0000"
     },
     "done": true
   },
@@ -5364,6 +5395,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-07-28 01:50:13 +0000"
@@ -5376,6 +5413,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5385,6 +5428,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
     },
     "done": true
   },

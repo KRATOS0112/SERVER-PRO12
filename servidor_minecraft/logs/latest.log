@@ -1155,3 +1155,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 02:04:29.855] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
 [28Jul2025 02:05:27.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Timed out
 [28Jul2025 02:05:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
+[28Jul2025 02:08:43.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shagyy[/127.219.244.63:38997] logged in with entity id 14213 at (408.5005624080843, 63.085764312744146, -3958.7233103177614)
+[28Jul2025 02:08:43.343] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
+[28Jul2025 02:08:43.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
+[28Jul2025 02:08:43.466] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[28Jul2025 02:10:47.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Jul2025 02:11:04.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[28Jul2025 02:15:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Digger Man]
