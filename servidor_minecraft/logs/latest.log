@@ -1137,3 +1137,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 01:55:09.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Timed out
 [28Jul2025 01:55:09.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
 [28Jul2025 01:55:09.766] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 01:59:01.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shagyy[/127.219.244.63:41111] logged in with entity id 7564 at (427.8202873490957, 72.0, -3175.718003400182)
+[28Jul2025 01:59:01.709] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
+[28Jul2025 01:59:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
+[28Jul2025 01:59:01.855] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[28Jul2025 02:00:34.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Jul2025 02:01:09.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[28Jul2025 02:01:14.906] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:01:14.908] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:01:14.929] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:02:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Sea? Not a Problem]
+[28Jul2025 02:03:16.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Timed out
+[28Jul2025 02:03:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
+[28Jul2025 02:04:29.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shagyy[/127.219.244.63:40065] logged in with entity id 12091 at (408.5005624080843, 63.085764312744146, -3958.7233103177614)
+[28Jul2025 02:04:29.701] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
+[28Jul2025 02:04:29.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
+[28Jul2025 02:04:29.855] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[28Jul2025 02:05:27.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Timed out
+[28Jul2025 02:05:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
