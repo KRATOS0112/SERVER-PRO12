@@ -4835,6 +4835,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-07-28 17:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2025-07-28 17:12:03 +0000"
@@ -4898,6 +4904,18 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-07-28 17:12:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-07-28 17:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-28 17:32:57 +0000"
     },
     "done": true
   },
@@ -5006,6 +5024,12 @@
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-28 17:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-28 17:32:57 +0000"
     },
     "done": true
   },
@@ -5126,6 +5150,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-28 17:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-28 17:32:57 +0000"
     },
     "done": true
   },

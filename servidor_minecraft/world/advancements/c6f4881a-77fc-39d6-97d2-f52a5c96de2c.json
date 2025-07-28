@@ -5625,12 +5625,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-28 17:31:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_cretaceous_chalk": {
     "criteria": {
       "has_stone": "2025-07-28 17:26:53 +0000"
@@ -5727,6 +5721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_brick_slab": {
+    "criteria": {
+      "has_stone": "2025-07-28 17:34:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_bolt": {
     "criteria": {
       "has_feather": "2025-07-28 17:08:19 +0000"
@@ -5757,6 +5757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_brick_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-28 17:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_cretaceous_chalk": {
     "criteria": {
       "has_stone": "2025-07-28 17:26:53 +0000"
@@ -5772,6 +5778,12 @@
   "minecraft:recipes/building_blocks/chalk_slab": {
     "criteria": {
       "has_stone": "2025-07-28 17:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_brick_wall": {
+    "criteria": {
+      "has_stone": "2025-07-28 17:34:28 +0000"
     },
     "done": true
   },
