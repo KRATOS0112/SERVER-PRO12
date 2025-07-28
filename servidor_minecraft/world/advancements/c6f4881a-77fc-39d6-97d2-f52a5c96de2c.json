@@ -5686,6 +5686,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-28 17:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-28 17:56:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-07-28 17:18:01 +0000"
@@ -5731,6 +5743,18 @@
   "spartanweaponry:recipes/copper_bolt": {
     "criteria": {
       "has_feather": "2025-07-28 17:08:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-28 17:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-28 17:56:17 +0000"
     },
     "done": true
   },
