@@ -1193,3 +1193,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 17:01:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Chompy]
 [28Jul2025 17:01:20.776] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [28Jul2025 17:01:20.792] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 17:02:01.870] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 17:02:01.890] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 17:02:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Crocodile
+[28Jul2025 17:02:39.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Chompy]
+[28Jul2025 17:02:42.270] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 17:02:42.289] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 17:02:48.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Crocodile
+[28Jul2025 17:06:16.184] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14021, l='ServerLevel[world]', x=-96.78, y=66.24, z=-5905.62]
+[28Jul2025 17:06:16.185] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14022, l='ServerLevel[world]', x=-96.75, y=65.74, z=-5906.74]
+[28Jul2025 17:06:16.185] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14025, l='ServerLevel[world]', x=-93.91, y=66.49, z=-5904.46]
+[28Jul2025 17:06:16.186] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14026, l='ServerLevel[world]', x=-93.06, y=66.12, z=-5904.97]
+[28Jul2025 17:06:16.186] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14027, l='ServerLevel[world]', x=-92.32, y=65.87, z=-5905.42]
+[28Jul2025 17:06:16.186] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14028, l='ServerLevel[world]', x=-91.36, y=65.62, z=-5906.00]
+[28Jul2025 17:06:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [You Are A Pirate]
+[28Jul2025 17:09:14.013] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Geologist'/11427, l='ServerLevel[world]', x=186.97, y=69.00, z=-5703.16] died, message: 'Geologist burned to death'
+[28Jul2025 17:10:49.883] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 17:10:49.894] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 17:10:56.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was turned into KFC by a dragon
