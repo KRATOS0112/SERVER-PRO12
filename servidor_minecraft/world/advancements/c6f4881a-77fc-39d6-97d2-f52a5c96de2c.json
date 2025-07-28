@@ -5638,6 +5638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_cretaceous_chalk_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-28 18:09:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-28 17:22:31 +0000"
@@ -5689,6 +5695,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-07-28 17:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cretaceous_chalk_slab": {
+    "criteria": {
+      "has_stone": "2025-07-28 18:09:42 +0000"
     },
     "done": true
   },
