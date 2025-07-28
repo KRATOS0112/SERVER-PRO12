@@ -4797,87 +4797,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
+      "tamed_animal": "2025-07-28 02:36:21 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-28 02:43:38 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-28 02:38:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-28 02:36:21 +0000"
     },
     "done": true
   },

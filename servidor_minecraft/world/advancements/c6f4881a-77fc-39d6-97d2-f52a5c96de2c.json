@@ -5128,27 +5128,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-28 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 01:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-28 01:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-28 01:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-28 01:50:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-28 01:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-28 01:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-28 01:51:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-07-28 01:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-28 01:53:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_raw_iron": "2025-07-28 01:57:46 +0000"
+      "has_logs": "2025-07-28 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 01:53:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-28 02:02:48 +0000"
     },
     "done": true
   },
@@ -5176,69 +5314,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-07-28 01:50:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-07-28 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-28 02:02:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-07-28 01:50:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-28 01:57:46 +0000"
     },
     "done": true
   },
@@ -5254,12 +5332,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-07-28 02:15:28 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/transportation/driftwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5272,87 +5344,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-07-28 01:50:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-07-28 02:23:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2025-07-28 02:02:48 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/cloudcap_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-28 01:57:46 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-07-28 01:50:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-07-28 01:50:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
-    "criteria": {
-      "has_item": "2025-07-28 02:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wall_fossil": {
-    "criteria": {
-      "has_fossils": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/fire_stew": {
-    "criteria": {
-      "has_item": "2025-07-28 01:52:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-07-28 01:51:15 +0000"
     },
     "done": true
   },
@@ -5368,51 +5368,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-28 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paleontology_table": {
-    "criteria": {
-      "has_fossils": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-07-28 01:51:15 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-07-28 02:23:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
-    "criteria": {
-      "has_sea_serpent_scales_blue": "2025-07-28 02:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-07-28 02:23:18 +0000"
     },
     "done": true
   },
@@ -5422,21 +5380,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-07-28 01:50:13 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
     },
     "done": true
   },
@@ -5446,57 +5392,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-07-28 01:50:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-07-28 01:50:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-07-28 02:02:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-07-28 02:44:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-07-28 01:50:13 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_boots": {
-    "criteria": {
-      "has_item": "2025-07-28 02:02:48 +0000"
     },
     "done": true
   },
@@ -5512,30 +5410,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
-    "criteria": {
-      "has_item": "2025-07-28 02:02:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-07-28 02:15:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-28 01:50:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5548,33 +5422,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_slab": {
-    "criteria": {
-      "has_stone": "2025-07-28 02:15:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-07-28 02:15:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-28 01:53:07 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-07-28 01:53:02 +0000"
     },
     "done": true
   },
@@ -5584,15 +5434,135 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
+  "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
-      "has_item": "2025-07-28 02:23:18 +0000"
+      "has_boat": "2025-07-28 01:53:13 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/melon": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "has_melon_slice": "2025-07-28 01:50:54 +0000"
+      "has_raw_iron": "2025-07-28 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-28 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-28 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-28 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 02:15:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 02:15:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 02:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wall_fossil": {
+    "criteria": {
+      "has_fossils": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paleontology_table": {
+    "criteria": {
+      "has_fossils": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
     },
     "done": true
   },
@@ -5602,21 +5572,51 @@
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_chest_boat": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
     "criteria": {
-      "has_boat": "2025-07-28 01:53:13 +0000"
+      "has_sea_serpent_scales_red": "2025-07-28 02:23:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
-      "has_bamboo": "2025-07-28 01:50:33 +0000"
+      "has_item": "2025-07-28 02:23:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-28 02:23:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-28 02:23:18 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-07-28 02:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-07-28 02:44:09 +0000"
     },
     "done": true
   },
