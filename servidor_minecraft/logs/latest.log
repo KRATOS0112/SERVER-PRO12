@@ -1162,3 +1162,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jul2025 02:10:47.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [28Jul2025 02:11:04.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
 [28Jul2025 02:15:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Digger Man]
+[28Jul2025 02:17:18.568] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[28Jul2025 02:17:18.572] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[28Jul2025 02:17:24.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has reached the goal [Strong or Careful]
+[28Jul2025 02:17:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was shot by Skeleton
+[28Jul2025 02:18:07.060] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[28Jul2025 02:18:07.062] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[28Jul2025 02:20:10.854] [Worker-Main-11/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 4059
+[28Jul2025 02:20:25.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Jul2025 02:20:43.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[28Jul2025 02:21:01.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[28Jul2025 02:21:30.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[28Jul2025 02:22:06.431] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:08.327] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:08.329] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:11.829] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:11.867] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:11.868] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:13.215] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:22:13.222] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Jul2025 02:24:11.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[28Jul2025 02:24:33.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind

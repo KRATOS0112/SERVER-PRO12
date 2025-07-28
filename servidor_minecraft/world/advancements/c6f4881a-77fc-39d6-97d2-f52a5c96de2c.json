@@ -391,6 +391,7 @@
     "criteria": {
       "minecraft:mushroom_fields": "2025-07-28 02:01:47 +0000",
       "minecraft:taiga": "2025-07-26 02:35:24 +0000",
+      "minecraft:deep_ocean": "2025-07-28 02:20:00 +0000",
       "minecraft:frozen_river": "2025-07-26 02:47:24 +0000",
       "minecraft:cherry_grove": "2025-07-26 17:57:49 +0000",
       "minecraft:bamboo_jungle": "2025-07-26 18:42:43 +0000",
@@ -5179,6 +5180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5239,6 +5246,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 02:15:28 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/transportation/driftwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
@@ -5287,6 +5300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-28 01:50:33 +0000"
@@ -5302,6 +5321,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wall_fossil": {
+    "criteria": {
+      "has_fossils": "2025-07-28 02:15:43 +0000"
     },
     "done": true
   },
@@ -5329,6 +5354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paleontology_table": {
+    "criteria": {
+      "has_fossils": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-28 01:51:15 +0000"
@@ -5344,6 +5375,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2025-07-28 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
     },
     "done": true
   },
@@ -5386,6 +5423,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-07-28 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
     },
     "done": true
   },
@@ -5437,6 +5480,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 02:15:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-07-28 01:53:07 +0000"
@@ -5458,6 +5507,18 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-28 01:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-28 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 02:15:28 +0000"
     },
     "done": true
   },
@@ -5488,6 +5549,12 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-07-28 01:50:54 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/digger_man": {
+    "criteria": {
+      "jurassic_fossil": "2025-07-28 02:15:43 +0000"
     },
     "done": true
   },
